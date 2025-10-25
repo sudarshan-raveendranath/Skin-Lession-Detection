@@ -1,0 +1,1338 @@
+file,true,pred,prob_top
+ISIC_0026525.jpg,Actinic keratoses,Actinic keratoses,0.998
+ISIC_0026650.jpg,Actinic keratoses,Actinic keratoses,0.9999
+ISIC_0027615.jpg,Actinic keratoses,Actinic keratoses,0.9652
+ISIC_0028393.jpg,Actinic keratoses,Actinic keratoses,0.9978
+ISIC_0029900.jpg,Actinic keratoses,Squamous cell carcinoma,0.9999
+ISIC_0030036.jpg,Actinic keratoses,Squamous cell carcinoma,0.9243
+ISIC_0033456.jpg,Actinic keratoses,Actinic keratoses,0.985
+ISIC_0053597.jpg,Actinic keratoses,Actinic keratoses,1.0
+ISIC_0053749.jpg,Actinic keratoses,Actinic keratoses,0.9993
+ISIC_0054271.jpg,Actinic keratoses,Actinic keratoses,0.9867
+ISIC_0054359.jpg,Actinic keratoses,Actinic keratoses,0.9996
+ISIC_0054531.jpg,Actinic keratoses,Actinic keratoses,1.0
+ISIC_0054689.jpg,Actinic keratoses,Actinic keratoses,0.9976
+ISIC_0055176.jpg,Actinic keratoses,Actinic keratoses,0.996
+ISIC_0055250.jpg,Actinic keratoses,Actinic keratoses,0.9988
+ISIC_0055838.jpg,Actinic keratoses,Actinic keratoses,0.9974
+ISIC_0056278.jpg,Actinic keratoses,Actinic keratoses,1.0
+ISIC_0056529.jpg,Actinic keratoses,Actinic keratoses,0.9895
+ISIC_0057038.jpg,Actinic keratoses,Actinic keratoses,0.9991
+ISIC_0057077.jpg,Actinic keratoses,Actinic keratoses,0.992
+ISIC_0057351.jpg,Actinic keratoses,Actinic keratoses,0.9992
+ISIC_0057458.jpg,Actinic keratoses,Actinic keratoses,0.9965
+ISIC_0057526.jpg,Actinic keratoses,Actinic keratoses,1.0
+ISIC_0057847.jpg,Actinic keratoses,Actinic keratoses,0.9983
+ISIC_0057986.jpg,Actinic keratoses,Actinic keratoses,1.0
+ISIC_0058153.jpg,Actinic keratoses,Vascular lesions,0.3992
+ISIC_0058593.jpg,Actinic keratoses,Actinic keratoses,0.9988
+ISIC_0058653.jpg,Actinic keratoses,Actinic keratoses,0.9994
+ISIC_0058939.jpg,Actinic keratoses,Actinic keratoses,0.9794
+ISIC_0058983.jpg,Actinic keratoses,Actinic keratoses,0.9905
+ISIC_0059058.jpg,Actinic keratoses,Actinic keratoses,0.9966
+ISIC_0059087.jpg,Actinic keratoses,Actinic keratoses,0.9485
+ISIC_0059198.jpg,Actinic keratoses,Actinic keratoses,0.9971
+ISIC_0059211.jpg,Actinic keratoses,Actinic keratoses,0.9989
+ISIC_0059360.jpg,Actinic keratoses,Actinic keratoses,0.9968
+ISIC_0059572.jpg,Actinic keratoses,Actinic keratoses,0.9937
+ISIC_0059709.jpg,Actinic keratoses,Actinic keratoses,1.0
+ISIC_0059874.jpg,Actinic keratoses,Actinic keratoses,0.9856
+ISIC_0060273.jpg,Actinic keratoses,Actinic keratoses,0.9962
+ISIC_0060337.jpg,Actinic keratoses,Actinic keratoses,0.9997
+ISIC_0060636.jpg,Actinic keratoses,Actinic keratoses,0.9997
+ISIC_0060755.jpg,Actinic keratoses,Actinic keratoses,0.9994
+ISIC_0061068.jpg,Actinic keratoses,Actinic keratoses,0.9961
+ISIC_0061376.jpg,Actinic keratoses,Actinic keratoses,0.9986
+ISIC_0061464.jpg,Actinic keratoses,Squamous cell carcinoma,0.7156
+ISIC_0061691.jpg,Actinic keratoses,Actinic keratoses,0.9913
+ISIC_0061967.jpg,Actinic keratoses,Actinic keratoses,0.9972
+ISIC_0062036.jpg,Actinic keratoses,Actinic keratoses,0.9972
+ISIC_0062123.jpg,Actinic keratoses,Actinic keratoses,0.9931
+ISIC_0062245.jpg,Actinic keratoses,Actinic keratoses,0.9999
+ISIC_0062692.jpg,Actinic keratoses,Actinic keratoses,1.0
+ISIC_0062766.jpg,Actinic keratoses,Actinic keratoses,0.9184
+ISIC_0063045.jpg,Actinic keratoses,Actinic keratoses,1.0
+ISIC_0063210.jpg,Actinic keratoses,Actinic keratoses,0.9857
+ISIC_0064022.jpg,Actinic keratoses,Actinic keratoses,0.913
+ISIC_0064262.jpg,Actinic keratoses,Actinic keratoses,0.9721
+ISIC_0064490.jpg,Actinic keratoses,Squamous cell carcinoma,0.7705
+ISIC_0065832.jpg,Actinic keratoses,Actinic keratoses,0.9999
+ISIC_0065960.jpg,Actinic keratoses,Actinic keratoses,0.9959
+ISIC_0066315.jpg,Actinic keratoses,Actinic keratoses,0.9864
+ISIC_0066509.jpg,Actinic keratoses,Actinic keratoses,0.9963
+ISIC_0066556.jpg,Actinic keratoses,Actinic keratoses,0.9991
+ISIC_0066825.jpg,Actinic keratoses,Actinic keratoses,1.0
+ISIC_0066892.jpg,Actinic keratoses,Actinic keratoses,0.9999
+ISIC_0066895.jpg,Actinic keratoses,Actinic keratoses,0.9928
+ISIC_0067394.jpg,Actinic keratoses,Actinic keratoses,0.9994
+ISIC_0067676.jpg,Actinic keratoses,Actinic keratoses,0.887
+ISIC_0067755.jpg,Actinic keratoses,Actinic keratoses,0.9994
+ISIC_0068360.jpg,Actinic keratoses,Actinic keratoses,0.9996
+ISIC_0068395.jpg,Actinic keratoses,Actinic keratoses,1.0
+ISIC_0068648.jpg,Actinic keratoses,Actinic keratoses,0.5307
+ISIC_0068722.jpg,Actinic keratoses,Actinic keratoses,0.9882
+ISIC_0068989.jpg,Actinic keratoses,Actinic keratoses,0.9972
+ISIC_0069211.jpg,Actinic keratoses,Actinic keratoses,0.9997
+ISIC_0069818.jpg,Actinic keratoses,Actinic keratoses,0.9998
+ISIC_0069906.jpg,Actinic keratoses,Actinic keratoses,0.9946
+ISIC_0069917.jpg,Actinic keratoses,Actinic keratoses,0.9651
+ISIC_0070164.jpg,Actinic keratoses,Actinic keratoses,0.9954
+ISIC_0070484.jpg,Actinic keratoses,Actinic keratoses,1.0
+ISIC_0070877.jpg,Actinic keratoses,Actinic keratoses,0.9975
+ISIC_0071500.jpg,Actinic keratoses,Actinic keratoses,0.9991
+ISIC_0071524.jpg,Actinic keratoses,Actinic keratoses,1.0
+ISIC_0071669.jpg,Actinic keratoses,Actinic keratoses,0.974
+ISIC_0071762.jpg,Actinic keratoses,Actinic keratoses,0.9999
+ISIC_0071982.jpg,Actinic keratoses,Actinic keratoses,0.9688
+ISIC_0072646.jpg,Actinic keratoses,Actinic keratoses,0.9914
+ISIC_0072652.jpg,Actinic keratoses,Actinic keratoses,1.0
+ISIC_0072676.jpg,Actinic keratoses,Actinic keratoses,0.9841
+CHP_02_01_1.jpg,Chickenpox,Chickenpox,0.9999
+CHP_02_01_13.jpg,Chickenpox,Chickenpox,0.9992
+CHP_02_01_4.jpg,Chickenpox,Chickenpox,0.9994
+CHP_02_01_7.jpg,Chickenpox,Chickenpox,0.7947
+CHP_02_01_8.jpg,Chickenpox,Chickenpox,0.9983
+CHP_02_02_1.jpg,Chickenpox,Chickenpox,0.9999
+CHP_03_01_6.jpg,Chickenpox,Chickenpox,0.9999
+CHP_04_01_10.jpg,Chickenpox,Chickenpox,0.8555
+CHP_04_01_2.jpg,Chickenpox,Chickenpox,1.0
+CHP_04_01_6.jpg,Chickenpox,Chickenpox,0.9583
+CHP_04_01_8.jpg,Chickenpox,Chickenpox,1.0
+CHP_04_02_2.jpg,Chickenpox,Chickenpox,1.0
+CHP_04_03.jpg,Chickenpox,Chickenpox,1.0
+CHP_04_03_11.jpg,Chickenpox,Chickenpox,0.9554
+CHP_04_03_8.jpg,Chickenpox,Chickenpox,1.0
+CHP_04_04_6.jpg,Chickenpox,Chickenpox,0.9967
+CHP_04_04_ORIGINAL.jpg,Chickenpox,Chickenpox,1.0
+CHP_04_05_8.jpg,Chickenpox,Chickenpox,0.9987
+CHP_05_01_12.jpg,Chickenpox,Chickenpox,0.8334
+CHP_05_01_13.jpg,Chickenpox,Chickenpox,1.0
+CHP_06_01_8.jpg,Chickenpox,Chickenpox,0.9996
+CHP_06_01_9.jpg,Chickenpox,Chickenpox,0.9998
+CHP_06_02_1.jpg,Chickenpox,Chickenpox,1.0
+CHP_06_02_12.jpg,Chickenpox,Chickenpox,0.7645
+CHP_06_02_13.jpg,Chickenpox,Chickenpox,1.0
+CHP_06_02_9.jpg,Chickenpox,Chickenpox,1.0
+CHP_06_02_ORIGINAL.jpg,Chickenpox,Chickenpox,1.0
+CHP_08_01_13.jpg,Chickenpox,Chickenpox,1.0
+CHP_08_01_2.jpg,Chickenpox,Chickenpox,1.0
+CHP_08_02_3.jpg,Chickenpox,Chickenpox,0.9999
+CHP_08_02_4.jpg,Chickenpox,Chickenpox,1.0
+CHP_08_02_8.jpg,Chickenpox,Chickenpox,0.9995
+CHP_08_02_ORIGINAL.jpg,Chickenpox,Chickenpox,1.0
+CHP_09_01_12.jpg,Chickenpox,Monkeypox,0.6219
+CHP_09_01_13.jpg,Chickenpox,Chickenpox,1.0
+CHP_09_01_4.jpg,Chickenpox,Chickenpox,1.0
+CHP_09_01_7.jpg,Chickenpox,Chickenpox,1.0
+CHP_10_01.jpg,Chickenpox,Chickenpox,1.0
+CHP_10_01_13.jpg,Chickenpox,Chickenpox,1.0
+CHP_11_01_12.jpg,Chickenpox,Chickenpox,0.9965
+CHP_11_01_2.jpg,Chickenpox,Chickenpox,0.9973
+CHP_12_01_4.jpg,Chickenpox,Chickenpox,0.8721
+CHP_14_01_2.jpg,Chickenpox,Chickenpox,0.9984
+CHP_14_01_7.jpg,Chickenpox,Chickenpox,0.9547
+CHP_14_01_9.jpg,Chickenpox,Chickenpox,1.0
+CHP_14_01_ORIGINAL.jpg,Chickenpox,Chickenpox,1.0
+CHP_15_01_1.jpg,Chickenpox,Chickenpox,1.0
+CHP_15_01_11.jpg,Chickenpox,Chickenpox,0.9948
+CHP_15_01_13.jpg,Chickenpox,Chickenpox,0.9999
+CHP_15_01_3.jpg,Chickenpox,Chickenpox,0.9999
+CHP_15_01_6.jpg,Chickenpox,Chickenpox,0.9718
+CHP_15_01_7.jpg,Chickenpox,Cowpox,0.9962
+CHP_16_01_12.jpg,Chickenpox,Chickenpox,0.9888
+CHP_18_01_6.jpg,Chickenpox,Chickenpox,0.966
+CHP_20_01_10.jpg,Chickenpox,Monkeypox,0.847
+CHP_20_01_11.jpg,Chickenpox,Chickenpox,0.9371
+CHP_20_01_2.jpg,Chickenpox,Chickenpox,0.9999
+CHP_21_01_1.jpg,Chickenpox,Chickenpox,0.9861
+CHP_21_01_11.jpg,Chickenpox,Chickenpox,0.8114
+CHP_22_01_10.jpg,Chickenpox,Chickenpox,0.9747
+CHP_23_01.jpg,Chickenpox,Chickenpox,0.9999
+CHP_24_01_3.jpg,Chickenpox,Chickenpox,0.9998
+CHP_24_01_4.jpg,Chickenpox,Chickenpox,1.0
+CHP_26_01_ORIGINAL.jpg,Chickenpox,Chickenpox,1.0
+CHP_27_01_10.jpg,Chickenpox,Chickenpox,0.9521
+CHP_28_01_5.jpg,Chickenpox,Chickenpox,1.0
+CHP_30_01.jpg,Chickenpox,Chickenpox,0.9997
+CHP_31_01_2.jpg,Chickenpox,Chickenpox,0.9998
+CHP_31_01_3.jpg,Chickenpox,Chickenpox,0.9999
+CHP_34_01_10.jpg,Chickenpox,Chickenpox,0.5024
+CHP_34_01_3.jpg,Chickenpox,Chickenpox,0.9995
+CHP_34_01_5.jpg,Chickenpox,Chickenpox,0.9965
+CHP_35_01_10.jpg,Chickenpox,Chickenpox,0.899
+CHP_35_01_5.jpg,Chickenpox,Chickenpox,1.0
+CHP_38_01.jpg,Chickenpox,Chickenpox,1.0
+CHP_39_01_13.jpg,Chickenpox,Chickenpox,0.9999
+CHP_41_01_8.jpg,Chickenpox,Chickenpox,0.9999
+CHP_43_01_11.jpg,Chickenpox,Chickenpox,0.8991
+CHP_43_01_12.jpg,Chickenpox,Chickenpox,0.9876
+CHP_43_01_9.jpg,Chickenpox,Chickenpox,1.0
+CHP_43_01_ORIGINAL.jpg,Chickenpox,Chickenpox,1.0
+CHP_44_01_1.jpg,Chickenpox,Chickenpox,0.9999
+CHP_44_01_12.jpg,Chickenpox,Chickenpox,0.879
+CHP_46_01_1.jpg,Chickenpox,Chickenpox,0.9971
+CHP_46_01_8.jpg,Chickenpox,Chickenpox,1.0
+CHP_47_01_5.jpg,Chickenpox,Chickenpox,0.9997
+CHP_47_02_4.jpg,Chickenpox,Chickenpox,0.9999
+CHP_48_01.jpg,Chickenpox,Chickenpox,0.9997
+CHP_48_01_1.jpg,Chickenpox,Chickenpox,0.9997
+CHP_49_01_3.jpg,Chickenpox,Chickenpox,1.0
+CHP_50_01_3.jpg,Chickenpox,Chickenpox,1.0
+CHP_51_01_1.jpg,Chickenpox,Chickenpox,0.9999
+CHP_51_01_10.jpg,Chickenpox,Chickenpox,0.8064
+CHP_51_01_13.jpg,Chickenpox,Chickenpox,0.9999
+CHP_51_02_1.jpg,Chickenpox,Chickenpox,1.0
+CHP_53_01_3.jpg,Chickenpox,Chickenpox,0.9924
+CHP_53_01_8.jpg,Chickenpox,Chickenpox,1.0
+CHP_53_01_9.jpg,Chickenpox,Chickenpox,1.0
+CHP_54_01_8.jpg,Chickenpox,Chickenpox,1.0
+CHP_54_01_ORIGINAL.jpg,Chickenpox,Chickenpox,1.0
+CHP_54_02_12.jpg,Chickenpox,Chickenpox,1.0
+CHP_54_02_5.jpg,Chickenpox,Chickenpox,1.0
+CHP_54_02_7.jpg,Chickenpox,Chickenpox,1.0
+CHP_54_02_ORIGINAL.jpg,Chickenpox,Chickenpox,1.0
+CHP_55_01.jpg,Chickenpox,Chickenpox,1.0
+CHP_55_01_3.jpg,Chickenpox,Chickenpox,0.9993
+CHP_56_01_12.jpg,Chickenpox,Chickenpox,0.9952
+CHP_56_01_ORIGINAL.jpg,Chickenpox,Chickenpox,1.0
+CHP_61_01_13.jpg,Chickenpox,Chickenpox,1.0
+CHP_62_01_11.jpg,Chickenpox,Chickenpox,0.9971
+CHP_62_01_13.jpg,Chickenpox,Chickenpox,1.0
+CHP_62_01_9.jpg,Chickenpox,Chickenpox,1.0
+CHP_62_01_ORIGINAL.jpg,Chickenpox,Chickenpox,1.0
+CWP_01_01_12.jpg,Cowpox,Monkeypox,0.9098
+CWP_01_01_2.jpg,Cowpox,Cowpox,0.9911
+CWP_01_01_3.jpg,Cowpox,Cowpox,0.9687
+CWP_02_01_12.jpg,Cowpox,Cowpox,1.0
+CWP_03_01_2.jpg,Cowpox,Cowpox,0.9999
+CWP_03_01_6.jpg,Cowpox,Cowpox,0.9998
+CWP_04_01.jpg,Cowpox,Cowpox,1.0
+CWP_05_01_12.jpg,Cowpox,Chickenpox,0.5192
+CWP_05_02_13.jpg,Cowpox,Cowpox,1.0
+CWP_05_02_3.jpg,Cowpox,Cowpox,0.9978
+CWP_07_01_1.jpg,Cowpox,Cowpox,1.0
+CWP_08_01_1.jpg,Cowpox,Cowpox,1.0
+CWP_08_01_12.jpg,Cowpox,Cowpox,0.9999
+CWP_08_01_2.jpg,Cowpox,Cowpox,1.0
+CWP_08_01_7.jpg,Cowpox,Cowpox,1.0
+CWP_08_01_9.jpg,Cowpox,Cowpox,1.0
+CWP_09_01_11.jpg,Cowpox,Cowpox,1.0
+CWP_10_01_6.jpg,Cowpox,Cowpox,0.9959
+CWP_10_01_8.jpg,Cowpox,Cowpox,0.9999
+CWP_11_01_2.jpg,Cowpox,Cowpox,0.9998
+CWP_11_01_7.jpg,Cowpox,Cowpox,0.9999
+CWP_12_01_1.jpg,Cowpox,Cowpox,1.0
+CWP_12_01_11.jpg,Cowpox,Cowpox,0.9999
+CWP_12_01_3.jpg,Cowpox,Cowpox,1.0
+CWP_12_01_4.jpg,Cowpox,Cowpox,1.0
+CWP_13_01_10.jpg,Cowpox,Cowpox,0.991
+CWP_13_01_11.jpg,Cowpox,Cowpox,0.9987
+CWP_14_01_5.jpg,Cowpox,Cowpox,0.9997
+CWP_14_01_8.jpg,Cowpox,Cowpox,1.0
+CWP_15_01_3.jpg,Cowpox,Cowpox,1.0
+CWP_16_01_12.jpg,Cowpox,Cowpox,0.9999
+CWP_17_01_8.jpg,Cowpox,Cowpox,0.9759
+CWP_18_01_2.jpg,Cowpox,Cowpox,0.9593
+CWP_18_01_ORIGINAL.jpg,Cowpox,Cowpox,0.9998
+CWP_20_01_12.jpg,Cowpox,Cowpox,0.9868
+CWP_20_01_2.jpg,Cowpox,Cowpox,0.9983
+CWP_20_01_5.jpg,Cowpox,Cowpox,0.9999
+CWP_20_01_ORIGINAL.jpg,Cowpox,Cowpox,0.9994
+CWP_22_01_2.jpg,Cowpox,Cowpox,1.0
+CWP_22_01_5.jpg,Cowpox,Cowpox,1.0
+CWP_22_02_10.jpg,Cowpox,Cowpox,0.9998
+CWP_23_01_2.jpg,Cowpox,Cowpox,0.9896
+CWP_23_01_ORIGINAL.jpg,Cowpox,Cowpox,0.9999
+CWP_24_01_11.jpg,Cowpox,Cowpox,1.0
+CWP_24_01_5.jpg,Cowpox,Cowpox,1.0
+CWP_25_01_11.jpg,Cowpox,Cowpox,0.938
+CWP_25_01_ORIGINAL.jpg,Cowpox,Cowpox,1.0
+CWP_26_01_3.jpg,Cowpox,Cowpox,1.0
+CWP_26_01_ORIGINAL.jpg,Cowpox,Cowpox,1.0
+CWP_27_01.jpg,Cowpox,Cowpox,1.0
+CWP_27_01_5.jpg,Cowpox,Cowpox,1.0
+CWP_27_01_6.jpg,Cowpox,Cowpox,1.0
+CWP_27_01_8.jpg,Cowpox,Cowpox,1.0
+CWP_28_01.jpg,Cowpox,Cowpox,0.9977
+CWP_28_01_3.jpg,Cowpox,Cowpox,0.9993
+CWP_28_01_5.jpg,Cowpox,Cowpox,0.9965
+CWP_28_01_7.jpg,Cowpox,Cowpox,0.9715
+CWP_28_02_10.jpg,Cowpox,Cowpox,0.8532
+CWP_29_01_1.jpg,Cowpox,Cowpox,0.9997
+CWP_29_02_3.jpg,Cowpox,Cowpox,0.9495
+CWP_29_02_7.jpg,Cowpox,Cowpox,0.9328
+CWP_29_02_8.jpg,Cowpox,Cowpox,1.0
+CWP_29_02_9.jpg,Cowpox,Cowpox,0.9993
+CWP_31_01_11.jpg,Cowpox,Cowpox,1.0
+CWP_31_01_13.jpg,Cowpox,Cowpox,1.0
+CWP_32_01_6.jpg,Cowpox,Cowpox,0.4546
+CWP_33_01.jpg,Cowpox,Cowpox,0.9995
+CWP_33_01_7.jpg,Cowpox,Cowpox,0.9954
+CWP_33_01_9.jpg,Cowpox,Cowpox,0.9999
+CWP_33_02_12.jpg,Cowpox,Cowpox,0.9989
+CWP_33_03.jpg,Cowpox,Cowpox,0.9999
+CWP_33_03_1.jpg,Cowpox,Cowpox,0.9999
+CWP_33_04_13.jpg,Cowpox,Cowpox,0.9979
+CWP_33_05.jpg,Cowpox,Cowpox,1.0
+CWP_33_05_8.jpg,Cowpox,Cowpox,0.9999
+CWP_33_07_9.jpg,Cowpox,Cowpox,1.0
+CWP_34_01_9.jpg,Cowpox,Cowpox,0.9999
+CWP_37_02_10.jpg,Cowpox,Cowpox,0.7487
+CWP_37_03.jpg,Cowpox,Cowpox,1.0
+CWP_37_03_ORIGINAL.jpg,Cowpox,Cowpox,0.9999
+CWP_37_04_13.jpg,Cowpox,Cowpox,1.0
+CWP_37_04_5.jpg,Cowpox,Cowpox,1.0
+CWP_37_05.jpg,Cowpox,Cowpox,1.0
+CWP_37_05_7.jpg,Cowpox,Cowpox,1.0
+CWP_37_07_7.jpg,Cowpox,Cowpox,0.9928
+CWP_37_08_3.jpg,Cowpox,Cowpox,1.0
+CWP_37_08_9.jpg,Cowpox,Cowpox,1.0
+CWP_38_02_5.jpg,Cowpox,Cowpox,1.0
+CWP_38_02_7.jpg,Cowpox,Cowpox,1.0
+CWP_39_01_2.jpg,Cowpox,Cowpox,0.9945
+CWP_40_01_7.jpg,Cowpox,Cowpox,0.9965
+CWP_40_01_8.jpg,Cowpox,Cowpox,1.0
+CWP_40_02_1.jpg,Cowpox,Cowpox,0.9971
+CWP_40_03_11.jpg,Cowpox,Cowpox,0.9985
+CWP_40_03_2.jpg,Cowpox,Cowpox,0.9993
+CWP_41_01_5.jpg,Cowpox,Cowpox,1.0
+CWP_41_02_2.jpg,Cowpox,Cowpox,0.9946
+CWP_41_03_13.jpg,Cowpox,Cowpox,1.0
+CWP_41_03_2.jpg,Cowpox,Cowpox,1.0
+ISIC_0025622.jpg,Dermatofibroma,Dermatofibroma,0.9932
+ISIC_0025668.jpg,Dermatofibroma,Dermatofibroma,0.957
+ISIC_0025954.jpg,Dermatofibroma,Squamous cell carcinoma,0.5576
+ISIC_0029130.jpg,Dermatofibroma,Dermatofibroma,1.0
+ISIC_0029578.jpg,Dermatofibroma,Squamous cell carcinoma,0.9283
+ISIC_0029967.jpg,Dermatofibroma,Dermatofibroma,0.9941
+ISIC_0030321.jpg,Dermatofibroma,Actinic keratoses,0.797
+ISIC_0031257.jpg,Dermatofibroma,Dermatofibroma,1.0
+ISIC_0031358.jpg,Dermatofibroma,Dermatofibroma,0.9973
+ISIC_0032247.jpg,Dermatofibroma,Dermatofibroma,0.9995
+ISIC_0033695.jpg,Dermatofibroma,Dermatofibroma,1.0
+ISIC_0034169.jpg,Dermatofibroma,Dermatofibroma,0.9715
+ISIC_0054425.jpg,Dermatofibroma,Dermatofibroma,0.9999
+ISIC_0054915.jpg,Dermatofibroma,Actinic keratoses,0.977
+ISIC_0055121.jpg,Dermatofibroma,Dermatofibroma,0.97
+ISIC_0055308.jpg,Dermatofibroma,Squamous cell carcinoma,0.8203
+ISIC_0057868.jpg,Dermatofibroma,Dermatofibroma,0.9738
+ISIC_0059494.jpg,Dermatofibroma,Dermatofibroma,0.9999
+ISIC_0061305.jpg,Dermatofibroma,Dermatofibroma,0.9994
+ISIC_0061605.jpg,Dermatofibroma,Actinic keratoses,0.9764
+ISIC_0062697.jpg,Dermatofibroma,Dermatofibroma,0.9978
+ISIC_0063817.jpg,Dermatofibroma,Dermatofibroma,0.9999
+ISIC_0064029.jpg,Dermatofibroma,Dermatofibroma,0.9992
+ISIC_0068991.jpg,Dermatofibroma,Dermatofibroma,0.7889
+ISIC_0070730.jpg,Dermatofibroma,Dermatofibroma,0.9552
+HFMD_01_01.jpg,HFMD,HFMD,1.0
+HFMD_01_01_12.jpg,HFMD,HFMD,1.0
+HFMD_02_01_8.jpg,HFMD,HFMD,0.9998
+HFMD_04_01_1.jpg,HFMD,HFMD,0.9995
+HFMD_05_02_1.jpg,HFMD,HFMD,0.9999
+HFMD_05_02_8.jpg,HFMD,HFMD,1.0
+HFMD_06_01_7.jpg,HFMD,HFMD,0.976
+HFMD_07_01.jpg,HFMD,HFMD,0.9995
+HFMD_08_01_4.jpg,HFMD,HFMD,0.9958
+HFMD_08_01_ORIGINAL.jpg,HFMD,HFMD,1.0
+HFMD_102_01_8.jpg,HFMD,HFMD,1.0
+HFMD_103_01_3.jpg,HFMD,HFMD,0.9895
+HFMD_103_01_5.jpg,HFMD,HFMD,0.9992
+HFMD_104_01.jpg,HFMD,HFMD,1.0
+HFMD_104_01_11.jpg,HFMD,HFMD,1.0
+HFMD_104_01_6.jpg,HFMD,HFMD,1.0
+HFMD_104_01_9.jpg,HFMD,HFMD,1.0
+HFMD_105_01_10.jpg,HFMD,HFMD,1.0
+HFMD_105_01_13.jpg,HFMD,HFMD,1.0
+HFMD_105_01_3.jpg,HFMD,HFMD,1.0
+HFMD_106_01_1.jpg,HFMD,HFMD,1.0
+HFMD_108_01_5.jpg,HFMD,HFMD,1.0
+HFMD_109_01_3.jpg,HFMD,HFMD,0.9994
+HFMD_109_01_9.jpg,HFMD,HFMD,0.9998
+HFMD_10_01_13.jpg,HFMD,HFMD,0.9998
+HFMD_10_01_3.jpg,HFMD,HFMD,0.9996
+HFMD_10_01_5.jpg,HFMD,HFMD,0.9998
+HFMD_110_01.jpg,HFMD,HFMD,0.9998
+HFMD_110_01_1.jpg,HFMD,HFMD,0.998
+HFMD_110_01_7.jpg,HFMD,HFMD,0.9981
+HFMD_112_01_9.jpg,HFMD,HFMD,1.0
+HFMD_114_01_3.jpg,HFMD,HFMD,1.0
+HFMD_114_01_5.jpg,HFMD,HFMD,1.0
+HFMD_114_02_5.jpg,HFMD,HFMD,1.0
+HFMD_114_02_ORIGINAL.jpg,HFMD,HFMD,0.9999
+HFMD_115_01_1.jpg,HFMD,HFMD,0.9982
+HFMD_115_01_12.jpg,HFMD,HFMD,0.9629
+HFMD_115_01_4.jpg,HFMD,HFMD,0.9998
+HFMD_115_01_5.jpg,HFMD,HFMD,1.0
+HFMD_116_01_10.jpg,HFMD,HFMD,1.0
+HFMD_117_01_ORIGINAL.jpg,HFMD,HFMD,1.0
+HFMD_117_02_10.jpg,HFMD,HFMD,1.0
+HFMD_119_01_11.jpg,HFMD,HFMD,0.9986
+HFMD_119_01_4.jpg,HFMD,HFMD,0.9997
+HFMD_119_01_7.jpg,HFMD,HFMD,0.9951
+HFMD_11_01_12.jpg,HFMD,HFMD,0.9983
+HFMD_121_01_7.jpg,HFMD,HFMD,0.9996
+HFMD_122_01_13.jpg,HFMD,HFMD,1.0
+HFMD_123_01_3.jpg,HFMD,HFMD,0.9891
+HFMD_123_01_7.jpg,HFMD,HFMD,0.9997
+HFMD_124_01_7.jpg,HFMD,HFMD,1.0
+HFMD_125_01_ORIGINAL.jpg,HFMD,HFMD,1.0
+HFMD_126_01_1.jpg,HFMD,HFMD,1.0
+HFMD_126_01_8.jpg,HFMD,HFMD,1.0
+HFMD_128_01_5.jpg,HFMD,HFMD,1.0
+HFMD_129_01_11.jpg,HFMD,HFMD,1.0
+HFMD_129_01_2.jpg,HFMD,HFMD,0.9981
+HFMD_129_01_3.jpg,HFMD,HFMD,0.9999
+HFMD_129_01_6.jpg,HFMD,HFMD,0.9992
+HFMD_12_01_10.jpg,HFMD,HFMD,1.0
+HFMD_12_01_4.jpg,HFMD,HFMD,1.0
+HFMD_12_01_ORIGINAL.jpg,HFMD,HFMD,1.0
+HFMD_130_01_7.jpg,HFMD,HFMD,0.9998
+HFMD_131_01.jpg,HFMD,HFMD,1.0
+HFMD_131_01_1.jpg,HFMD,HFMD,1.0
+HFMD_131_01_10.jpg,HFMD,HFMD,1.0
+HFMD_132_01_13.jpg,HFMD,HFMD,1.0
+HFMD_132_01_5.jpg,HFMD,HFMD,0.9989
+HFMD_132_01_8.jpg,HFMD,HFMD,1.0
+HFMD_133_01_2.jpg,HFMD,HFMD,1.0
+HFMD_133_01_8.jpg,HFMD,HFMD,0.9927
+HFMD_133_01_9.jpg,HFMD,HFMD,0.9999
+HFMD_134_01_13.jpg,HFMD,HFMD,1.0
+HFMD_134_01_4.jpg,HFMD,HFMD,1.0
+HFMD_135_01_1.jpg,HFMD,HFMD,0.9994
+HFMD_136_01_1.jpg,HFMD,HFMD,0.9981
+HFMD_137_01_1.jpg,HFMD,HFMD,0.9999
+HFMD_137_01_2.jpg,HFMD,HFMD,0.9999
+HFMD_137_01_3.jpg,HFMD,HFMD,0.9998
+HFMD_138_01_11.jpg,HFMD,HFMD,0.9935
+HFMD_13_01_11.jpg,HFMD,HFMD,1.0
+HFMD_13_01_ORIGINAL.jpg,HFMD,HFMD,1.0
+HFMD_140_01_11.jpg,HFMD,HFMD,0.9997
+HFMD_140_01_13.jpg,HFMD,HFMD,0.9999
+HFMD_140_01_5.jpg,HFMD,HFMD,0.9999
+HFMD_141_01_1.jpg,HFMD,HFMD,0.9364
+HFMD_141_01_8.jpg,HFMD,HFMD,0.9998
+HFMD_142_01_11.jpg,HFMD,HFMD,0.9998
+HFMD_143_01_1.jpg,HFMD,HFMD,0.9984
+HFMD_143_01_8.jpg,HFMD,HFMD,0.9997
+HFMD_144_01_5.jpg,HFMD,HFMD,1.0
+HFMD_144_01_7.jpg,HFMD,HFMD,0.9999
+HFMD_14_01.jpg,HFMD,HFMD,1.0
+HFMD_14_01_7.jpg,HFMD,HFMD,0.9999
+HFMD_15_01_8.jpg,HFMD,HFMD,0.9953
+HFMD_16_01.jpg,HFMD,HFMD,1.0
+HFMD_16_01_13.jpg,HFMD,HFMD,1.0
+HFMD_16_02_13.jpg,HFMD,HFMD,0.9997
+HFMD_16_02_8.jpg,HFMD,HFMD,0.9995
+HFMD_16_03_1.jpg,HFMD,HFMD,0.9994
+HFMD_16_03_4.jpg,HFMD,HFMD,1.0
+HFMD_16_03_7.jpg,HFMD,HFMD,0.9996
+HFMD_17_01_8.jpg,HFMD,HFMD,0.9999
+HFMD_18_01_8.jpg,HFMD,HFMD,1.0
+HFMD_20_01_ORIGINAL.jpg,HFMD,HFMD,1.0
+HFMD_20_02_3.jpg,HFMD,HFMD,1.0
+HFMD_21_01_12.jpg,HFMD,HFMD,0.9994
+HFMD_21_01_13.jpg,HFMD,HFMD,0.9995
+HFMD_21_01_5.jpg,HFMD,HFMD,0.9998
+HFMD_21_01_ORIGINAL.jpg,HFMD,HFMD,0.9995
+HFMD_22_01_10.jpg,HFMD,Monkeypox,0.904
+HFMD_22_01_8.jpg,HFMD,HFMD,0.9999
+HFMD_24_01_10.jpg,HFMD,HFMD,0.9617
+HFMD_24_01_6.jpg,HFMD,HFMD,0.9998
+HFMD_24_01_7.jpg,HFMD,HFMD,1.0
+HFMD_27_01_7.jpg,HFMD,HFMD,1.0
+HFMD_28_01_10.jpg,HFMD,HFMD,0.9983
+HFMD_28_01_12.jpg,HFMD,HFMD,0.997
+HFMD_30_01_12.jpg,HFMD,HFMD,0.9936
+HFMD_30_01_7.jpg,HFMD,HFMD,1.0
+HFMD_31_01_13.jpg,HFMD,HFMD,1.0
+HFMD_31_01_ORIGINAL.jpg,HFMD,HFMD,1.0
+HFMD_32_01_11.jpg,HFMD,Cowpox,0.3654
+HFMD_32_01_ORIGINAL.jpg,HFMD,HFMD,1.0
+HFMD_33_01_5.jpg,HFMD,HFMD,1.0
+HFMD_34_01_12.jpg,HFMD,HFMD,0.9767
+HFMD_35_01_10.jpg,HFMD,HFMD,0.9492
+HFMD_35_01_2.jpg,HFMD,HFMD,0.9999
+HFMD_35_01_8.jpg,HFMD,HFMD,1.0
+HFMD_36_01_10.jpg,HFMD,HFMD,0.9947
+HFMD_36_01_5.jpg,HFMD,HFMD,1.0
+HFMD_37_01_6.jpg,HFMD,HFMD,1.0
+HFMD_38_01_11.jpg,HFMD,HFMD,1.0
+HFMD_38_01_13.jpg,HFMD,HFMD,1.0
+HFMD_38_01_2.jpg,HFMD,HFMD,1.0
+HFMD_38_01_3.jpg,HFMD,HFMD,1.0
+HFMD_38_01_9.jpg,HFMD,HFMD,1.0
+HFMD_39_01_4.jpg,HFMD,HFMD,1.0
+HFMD_40_01_12.jpg,HFMD,HFMD,1.0
+HFMD_40_01_8.jpg,HFMD,HFMD,1.0
+HFMD_41_01.jpg,HFMD,HFMD,1.0
+HFMD_41_01_5.jpg,HFMD,HFMD,1.0
+HFMD_41_01_ORIGINAL.jpg,HFMD,HFMD,1.0
+HFMD_42_01_8.jpg,HFMD,HFMD,0.9999
+HFMD_44_01_1.jpg,HFMD,HFMD,0.9942
+HFMD_46_01_5.jpg,HFMD,HFMD,0.9999
+HFMD_47_01_11.jpg,HFMD,HFMD,0.9211
+HFMD_47_01_12.jpg,HFMD,HFMD,0.9716
+HFMD_47_01_2.jpg,HFMD,HFMD,1.0
+HFMD_48_01_10.jpg,HFMD,HFMD,0.575
+HFMD_48_01_2.jpg,HFMD,HFMD,0.9995
+HFMD_50_01_11.jpg,HFMD,HFMD,0.9145
+HFMD_50_01_13.jpg,HFMD,HFMD,1.0
+HFMD_50_01_2.jpg,HFMD,HFMD,0.9999
+HFMD_51_01.jpg,HFMD,HFMD,0.9997
+HFMD_51_01_13.jpg,HFMD,HFMD,1.0
+HFMD_51_01_3.jpg,HFMD,HFMD,0.9988
+HFMD_51_01_6.jpg,HFMD,HFMD,0.9999
+HFMD_51_01_ORIGINAL.jpg,HFMD,HFMD,1.0
+HFMD_52_01_13.jpg,HFMD,HFMD,0.9996
+HFMD_55_01_1.jpg,HFMD,HFMD,1.0
+HFMD_56_01_11.jpg,HFMD,Monkeypox,0.8157
+HFMD_57_01_4.jpg,HFMD,HFMD,0.9954
+HFMD_57_02_4.jpg,HFMD,HFMD,0.9988
+HFMD_57_04_ORIGINAL.jpg,HFMD,HFMD,1.0
+HFMD_59_01_11.jpg,HFMD,HFMD,0.987
+HFMD_59_01_8.jpg,HFMD,HFMD,0.9999
+HFMD_59_01_ORIGINAL.jpg,HFMD,HFMD,1.0
+HFMD_60_01_1.jpg,HFMD,HFMD,0.9354
+HFMD_60_01_11.jpg,HFMD,HFMD,0.9972
+HFMD_60_02.jpg,HFMD,HFMD,1.0
+HFMD_60_02_6.jpg,HFMD,HFMD,0.9999
+HFMD_62_01_3.jpg,HFMD,HFMD,0.996
+HFMD_62_01_4.jpg,HFMD,HFMD,0.9998
+HFMD_62_01_9.jpg,HFMD,HFMD,0.9991
+HFMD_63_01_5.jpg,HFMD,HFMD,1.0
+HFMD_63_01_6.jpg,HFMD,HFMD,0.9999
+HFMD_63_02_ORIGINAL.jpg,HFMD,HFMD,1.0
+HFMD_63_03_2.jpg,HFMD,HFMD,1.0
+HFMD_63_03_5.jpg,HFMD,HFMD,1.0
+HFMD_65_01_10.jpg,HFMD,HFMD,0.9998
+HFMD_65_01_2.jpg,HFMD,HFMD,0.9997
+HFMD_65_01_4.jpg,HFMD,HFMD,0.9996
+HFMD_65_01_9.jpg,HFMD,HFMD,0.9998
+HFMD_66_02_1.jpg,HFMD,HFMD,1.0
+HFMD_66_02_8.jpg,HFMD,HFMD,1.0
+HFMD_67_01_13.jpg,HFMD,HFMD,0.9982
+HFMD_67_01_2.jpg,HFMD,HFMD,0.9998
+HFMD_68_01_4.jpg,HFMD,HFMD,0.9999
+HFMD_68_01_8.jpg,HFMD,HFMD,1.0
+HFMD_69_02_1.jpg,HFMD,HFMD,0.9992
+HFMD_69_03_13.jpg,HFMD,HFMD,1.0
+HFMD_70_01_4.jpg,HFMD,HFMD,0.9998
+HFMD_70_01_9.jpg,HFMD,HFMD,1.0
+HFMD_71_01_12.jpg,HFMD,HFMD,0.9994
+HFMD_71_01_8.jpg,HFMD,HFMD,0.9998
+HFMD_71_01_9.jpg,HFMD,HFMD,0.9994
+HFMD_72_01_7.jpg,HFMD,HFMD,0.9986
+HFMD_73_01_2.jpg,HFMD,HFMD,0.9999
+HFMD_74_01_8.jpg,HFMD,HFMD,0.9999
+HFMD_74_01_9.jpg,HFMD,HFMD,1.0
+HFMD_74_02_1.jpg,HFMD,HFMD,0.9999
+HFMD_74_02_10.jpg,HFMD,HFMD,0.9979
+HFMD_74_02_5.jpg,HFMD,HFMD,0.9999
+HFMD_74_02_ORIGINAL.jpg,HFMD,HFMD,0.9992
+HFMD_75_01_10.jpg,HFMD,HFMD,0.9966
+HFMD_76_01_4.jpg,HFMD,HFMD,0.9999
+HFMD_78_01.jpg,HFMD,HFMD,1.0
+HFMD_79_01_8.jpg,HFMD,HFMD,0.9993
+HFMD_80_01_7.jpg,HFMD,HFMD,0.9993
+HFMD_81_01_5.jpg,HFMD,HFMD,1.0
+HFMD_81_01_ORIGINAL.jpg,HFMD,HFMD,1.0
+HFMD_82_01_11.jpg,HFMD,HFMD,1.0
+HFMD_83_01_1.jpg,HFMD,HFMD,0.9969
+HFMD_83_01_13.jpg,HFMD,HFMD,0.9998
+HFMD_83_01_7.jpg,HFMD,HFMD,0.9996
+HFMD_83_01_9.jpg,HFMD,HFMD,0.9995
+HFMD_83_02_3.jpg,HFMD,HFMD,0.9999
+HFMD_83_02_8.jpg,HFMD,HFMD,0.9988
+HFMD_84_01.jpg,HFMD,HFMD,1.0
+HFMD_84_02_10.jpg,HFMD,HFMD,1.0
+HFMD_85_01_4.jpg,HFMD,HFMD,0.9989
+HFMD_86_01_5.jpg,HFMD,HFMD,1.0
+HFMD_87_01_8.jpg,HFMD,HFMD,1.0
+HFMD_87_01_9.jpg,HFMD,HFMD,1.0
+HFMD_88_01_3.jpg,HFMD,HFMD,1.0
+HFMD_89_01_3.jpg,HFMD,HFMD,1.0
+HFMD_89_01_7.jpg,HFMD,HFMD,0.9999
+HFMD_90_01_11.jpg,HFMD,HFMD,1.0
+HFMD_90_02_1.jpg,HFMD,HFMD,0.9999
+HFMD_94_01_1.jpg,HFMD,HFMD,1.0
+HFMD_94_01_2.jpg,HFMD,HFMD,0.9999
+HFMD_94_01_5.jpg,HFMD,HFMD,0.9998
+HFMD_95_01.jpg,HFMD,HFMD,1.0
+HFMD_95_01_10.jpg,HFMD,HFMD,0.5027
+HFMD_95_01_9.jpg,HFMD,HFMD,1.0
+HFMD_96_01_12.jpg,HFMD,HFMD,1.0
+HFMD_96_01_4.jpg,HFMD,HFMD,1.0
+HFMD_96_01_5.jpg,HFMD,HFMD,1.0
+HFMD_97_01_ORIGINAL.jpg,HFMD,HFMD,1.0
+HFMD_99_01_4.jpg,HFMD,HFMD,0.998
+HFMD_99_01_9.jpg,HFMD,HFMD,0.9994
+HEALTHY_01_01_4.jpg,Healthy,Healthy,0.9987
+HEALTHY_01_01_8.jpg,Healthy,Healthy,0.9992
+HEALTHY_03_01_12.jpg,Healthy,Healthy,0.8542
+HEALTHY_05_01.jpg,Healthy,Healthy,0.9997
+HEALTHY_06_01_6.jpg,Healthy,Healthy,0.9999
+HEALTHY_07_01_ORIGINAL.jpg,Healthy,Healthy,0.9999
+HEALTHY_09_01_6.jpg,Healthy,Healthy,0.9996
+HEALTHY_100_01_13.jpg,Healthy,Healthy,1.0
+HEALTHY_103_01_4.jpg,Healthy,Healthy,1.0
+HEALTHY_104_01_7.jpg,Healthy,Healthy,0.9999
+HEALTHY_105_01_11.jpg,Healthy,Healthy,0.9999
+HEALTHY_105_01_12.jpg,Healthy,Healthy,0.9566
+HEALTHY_10_01_13.jpg,Healthy,Healthy,0.9999
+HEALTHY_10_01_8.jpg,Healthy,Healthy,0.9995
+HEALTHY_10_01_9.jpg,Healthy,Healthy,1.0
+HEALTHY_11_01_4.jpg,Healthy,Healthy,1.0
+HEALTHY_11_01_7.jpg,Healthy,Healthy,1.0
+HEALTHY_12_01_4.jpg,Healthy,Healthy,1.0
+HEALTHY_12_01_9.jpg,Healthy,Healthy,0.9999
+HEALTHY_14_01_1.jpg,Healthy,Healthy,0.9976
+HEALTHY_14_01_6.jpg,Healthy,Healthy,0.9884
+HEALTHY_16_01_4.jpg,Healthy,Healthy,1.0
+HEALTHY_19_01.jpg,Healthy,Healthy,1.0
+HEALTHY_19_01_ORIGINAL.jpg,Healthy,Healthy,1.0
+HEALTHY_20_01.jpg,Healthy,Healthy,0.9999
+HEALTHY_20_01_10.jpg,Healthy,Healthy,0.9868
+HEALTHY_20_01_6.jpg,Healthy,Healthy,1.0
+HEALTHY_23_01_6.jpg,Healthy,Healthy,0.9999
+HEALTHY_23_01_7.jpg,Healthy,Healthy,0.9999
+HEALTHY_24_01_6.jpg,Healthy,Healthy,0.9918
+HEALTHY_24_01_8.jpg,Healthy,Healthy,0.9997
+HEALTHY_25_01.jpg,Healthy,Healthy,1.0
+HEALTHY_25_01_11.jpg,Healthy,Healthy,0.999
+HEALTHY_25_01_8.jpg,Healthy,Healthy,1.0
+HEALTHY_26_01_11.jpg,Healthy,Healthy,0.9477
+HEALTHY_26_01_6.jpg,Healthy,Healthy,0.973
+HEALTHY_26_02_2.jpg,Healthy,Healthy,0.9944
+HEALTHY_27_01_10.jpg,Healthy,Healthy,0.8403
+HEALTHY_27_01_7.jpg,Healthy,Healthy,0.9993
+HEALTHY_28_01_12.jpg,Healthy,Healthy,0.9954
+HEALTHY_28_02_10.jpg,Healthy,Healthy,0.7835
+HEALTHY_29_01_10.jpg,Healthy,HFMD,0.9883
+HEALTHY_29_01_4.jpg,Healthy,Healthy,0.9978
+HEALTHY_29_01_8.jpg,Healthy,Healthy,0.998
+HEALTHY_30_01_8.jpg,Healthy,Healthy,0.9991
+HEALTHY_30_01_9.jpg,Healthy,Healthy,0.9998
+HEALTHY_31_01_12.jpg,Healthy,Healthy,0.9998
+HEALTHY_31_01_9.jpg,Healthy,Healthy,0.9998
+HEALTHY_31_01_ORIGINAL.jpg,Healthy,Healthy,0.9999
+HEALTHY_32_02_1.jpg,Healthy,Healthy,0.9997
+HEALTHY_32_02_9.jpg,Healthy,Healthy,0.9981
+HEALTHY_32_03_4.jpg,Healthy,Healthy,1.0
+HEALTHY_32_04.jpg,Healthy,Healthy,0.9995
+HEALTHY_32_04_2.jpg,Healthy,Healthy,1.0
+HEALTHY_34_01_5.jpg,Healthy,Healthy,0.9999
+HEALTHY_35_01_12.jpg,Healthy,Healthy,1.0
+HEALTHY_35_01_9.jpg,Healthy,Healthy,1.0
+HEALTHY_36_01_13.jpg,Healthy,Healthy,0.9982
+HEALTHY_37_01_3.jpg,Healthy,Healthy,0.9999
+HEALTHY_37_01_9.jpg,Healthy,Healthy,1.0
+HEALTHY_38_01_12.jpg,Healthy,Healthy,0.9992
+HEALTHY_38_01_13.jpg,Healthy,Healthy,0.9997
+HEALTHY_39_01_12.jpg,Healthy,Healthy,0.9991
+HEALTHY_39_02_13.jpg,Healthy,Healthy,1.0
+HEALTHY_39_02_6.jpg,Healthy,Healthy,0.9942
+HEALTHY_39_02_9.jpg,Healthy,Healthy,0.9988
+HEALTHY_39_02_ORIGINAL.jpg,Healthy,Healthy,1.0
+HEALTHY_39_03_12.jpg,Healthy,Healthy,0.9998
+HEALTHY_39_03_8.jpg,Healthy,Healthy,0.9998
+HEALTHY_39_03_ORIGINAL.jpg,Healthy,Healthy,0.9999
+HEALTHY_39_04_7.jpg,Healthy,Healthy,0.9977
+HEALTHY_40_01_10.jpg,Healthy,HFMD,0.479
+HEALTHY_40_01_11.jpg,Healthy,Healthy,0.9455
+HEALTHY_41_01_13.jpg,Healthy,Healthy,0.9999
+HEALTHY_42_01_10.jpg,Healthy,Healthy,0.9963
+HEALTHY_43_01_3.jpg,Healthy,Healthy,0.9987
+HEALTHY_43_01_4.jpg,Healthy,Healthy,0.9998
+HEALTHY_44_01_7.jpg,Healthy,Healthy,0.9999
+HEALTHY_45_01_11.jpg,Healthy,Healthy,0.9999
+HEALTHY_46_01_12.jpg,Healthy,Healthy,0.9997
+HEALTHY_46_01_4.jpg,Healthy,Healthy,0.9998
+HEALTHY_46_01_7.jpg,Healthy,Healthy,0.9999
+HEALTHY_47_01.jpg,Healthy,Healthy,1.0
+HEALTHY_47_01_8.jpg,Healthy,Healthy,0.9997
+HEALTHY_48_01_12.jpg,Healthy,Healthy,0.7655
+HEALTHY_48_01_2.jpg,Healthy,Healthy,0.9998
+HEALTHY_48_01_3.jpg,Healthy,Healthy,0.9996
+HEALTHY_48_01_7.jpg,Healthy,Healthy,0.6081
+HEALTHY_48_01_8.jpg,Healthy,Healthy,0.9998
+HEALTHY_49_01_13.jpg,Healthy,Healthy,0.9999
+HEALTHY_49_01_2.jpg,Healthy,Healthy,0.9993
+HEALTHY_50_01_1.jpg,Healthy,Healthy,1.0
+HEALTHY_50_01_11.jpg,Healthy,Healthy,0.9709
+HEALTHY_50_01_5.jpg,Healthy,Healthy,1.0
+HEALTHY_51_01_8.jpg,Healthy,Healthy,0.9999
+HEALTHY_52_01_10.jpg,Healthy,HFMD,0.8423
+HEALTHY_52_01_2.jpg,Healthy,Healthy,0.9953
+HEALTHY_52_01_8.jpg,Healthy,Healthy,0.9839
+HEALTHY_53_01_8.jpg,Healthy,Healthy,0.9985
+HEALTHY_55_01_12.jpg,Healthy,Healthy,0.9679
+HEALTHY_56_01_8.jpg,Healthy,Healthy,0.9998
+HEALTHY_57_01_11.jpg,Healthy,Healthy,0.9075
+HEALTHY_57_01_7.jpg,Healthy,Healthy,0.9161
+HEALTHY_57_01_9.jpg,Healthy,Healthy,1.0
+HEALTHY_58_01.jpg,Healthy,Healthy,0.9999
+HEALTHY_58_01_13.jpg,Healthy,Healthy,0.9999
+HEALTHY_58_01_6.jpg,Healthy,Healthy,0.9876
+HEALTHY_59_01_5.jpg,Healthy,Healthy,1.0
+HEALTHY_59_01_9.jpg,Healthy,Healthy,1.0
+HEALTHY_59_02.jpg,Healthy,Healthy,0.9998
+HEALTHY_59_02_4.jpg,Healthy,Healthy,1.0
+HEALTHY_59_02_5.jpg,Healthy,Healthy,0.9986
+HEALTHY_61_01_13.jpg,Healthy,Healthy,0.9968
+HEALTHY_61_01_2.jpg,Healthy,Healthy,0.9959
+HEALTHY_62_01_10.jpg,Healthy,Healthy,0.9364
+HEALTHY_62_01_13.jpg,Healthy,Healthy,0.9998
+HEALTHY_62_01_6.jpg,Healthy,Healthy,0.8957
+HEALTHY_63_01_4.jpg,Healthy,Healthy,0.9987
+HEALTHY_65_01.jpg,Healthy,Healthy,1.0
+HEALTHY_65_01_9.jpg,Healthy,Healthy,0.9999
+HEALTHY_67_01.jpg,Healthy,Healthy,0.9999
+HEALTHY_67_01_3.jpg,Healthy,Healthy,0.9999
+HEALTHY_69_01_11.jpg,Healthy,Healthy,0.9863
+HEALTHY_69_02_5.jpg,Healthy,Healthy,0.9996
+HEALTHY_69_02_7.jpg,Healthy,Healthy,0.9974
+HEALTHY_69_02_8.jpg,Healthy,Healthy,0.9997
+HEALTHY_70_01_4.jpg,Healthy,Healthy,1.0
+HEALTHY_71_01_9.jpg,Healthy,Healthy,0.9953
+HEALTHY_71_01_ORIGINAL.jpg,Healthy,Healthy,0.9974
+HEALTHY_72_01_5.jpg,Healthy,Healthy,0.9772
+HEALTHY_73_01.jpg,Healthy,Healthy,1.0
+HEALTHY_73_01_5.jpg,Healthy,Healthy,1.0
+HEALTHY_74_01_11.jpg,Healthy,Healthy,0.9936
+HEALTHY_75_01_1.jpg,Healthy,Healthy,0.9979
+HEALTHY_75_01_11.jpg,Healthy,Healthy,0.9387
+HEALTHY_76_01.jpg,Healthy,Healthy,1.0
+HEALTHY_76_01_5.jpg,Healthy,Healthy,1.0
+HEALTHY_76_01_6.jpg,Healthy,Healthy,1.0
+HEALTHY_76_01_8.jpg,Healthy,Healthy,1.0
+HEALTHY_77_01_5.jpg,Healthy,Healthy,0.9993
+HEALTHY_77_01_8.jpg,Healthy,Healthy,0.9174
+HEALTHY_77_01_9.jpg,Healthy,Healthy,0.9982
+HEALTHY_79_01_11.jpg,Healthy,Healthy,0.9999
+HEALTHY_79_01_5.jpg,Healthy,Healthy,1.0
+HEALTHY_81_01_6.jpg,Healthy,Healthy,0.9989
+HEALTHY_82_01_6.jpg,Healthy,Healthy,1.0
+HEALTHY_82_01_7.jpg,Healthy,Healthy,0.9999
+HEALTHY_83_01_11.jpg,Healthy,Healthy,1.0
+HEALTHY_84_01_13.jpg,Healthy,Healthy,1.0
+HEALTHY_84_01_4.jpg,Healthy,Healthy,1.0
+HEALTHY_84_01_8.jpg,Healthy,Healthy,1.0
+HEALTHY_85_01_10.jpg,Healthy,Healthy,0.9743
+HEALTHY_85_01_12.jpg,Healthy,Healthy,0.7267
+HEALTHY_86_01.jpg,Healthy,Healthy,1.0
+HEALTHY_86_01_12.jpg,Healthy,Healthy,0.9999
+HEALTHY_86_01_5.jpg,Healthy,Healthy,0.9999
+HEALTHY_87_01_3.jpg,Healthy,Healthy,0.9998
+HEALTHY_88_01_8.jpg,Healthy,Healthy,0.9999
+HEALTHY_90_01_13.jpg,Healthy,Healthy,1.0
+HEALTHY_91_01_10.jpg,Healthy,Healthy,0.7222
+HEALTHY_91_01_9.jpg,Healthy,Healthy,0.9999
+HEALTHY_92_01_8.jpg,Healthy,Healthy,0.9995
+HEALTHY_92_02.jpg,Healthy,Healthy,0.9999
+HEALTHY_94_01_5.jpg,Healthy,Healthy,0.9976
+HEALTHY_95_01_12.jpg,Healthy,Monkeypox,0.6159
+HEALTHY_96_01_11.jpg,Healthy,Healthy,0.9999
+HEALTHY_97_01_10.jpg,Healthy,Healthy,0.9987
+HEALTHY_97_01_6.jpg,Healthy,Healthy,0.9999
+HEALTHY_97_01_9.jpg,Healthy,Healthy,1.0
+HEALTHY_98_01_4.jpg,Healthy,Healthy,0.9991
+HEALTHY_98_01_6.jpg,Healthy,Healthy,0.9843
+MSL_01_01_1.jpg,Measles,Measles,0.9999
+MSL_01_01_8.jpg,Measles,Measles,1.0
+MSL_01_02_10.jpg,Measles,Measles,0.9994
+MSL_01_02_11.jpg,Measles,Measles,0.9993
+MSL_01_02_12.jpg,Measles,Measles,0.9335
+MSL_01_02_13.jpg,Measles,Measles,0.9998
+MSL_01_02_ORIGINAL.jpg,Measles,Measles,0.9998
+MSL_02_01_10.jpg,Measles,Measles,0.8122
+MSL_02_01_11.jpg,Measles,HFMD,0.7522
+MSL_02_01_4.jpg,Measles,Measles,1.0
+MSL_02_01_5.jpg,Measles,Measles,1.0
+MSL_03_01_5.jpg,Measles,Measles,0.9998
+MSL_05_02_1.jpg,Measles,Measles,0.9999
+MSL_05_03_7.jpg,Measles,Measles,0.9939
+MSL_07_01_10.jpg,Measles,Measles,1.0
+MSL_08_02_1.jpg,Measles,Measles,0.994
+MSL_08_02_3.jpg,Measles,Measles,0.9997
+MSL_08_03.jpg,Measles,Measles,1.0
+MSL_09_02_10.jpg,Measles,Measles,0.9999
+MSL_09_02_7.jpg,Measles,Measles,0.9999
+MSL_10_01_2.jpg,Measles,Measles,1.0
+MSL_12_01_9.jpg,Measles,Measles,0.9999
+MSL_14_01.jpg,Measles,Measles,1.0
+MSL_15_01_12.jpg,Measles,Measles,1.0
+MSL_15_01_2.jpg,Measles,Measles,1.0
+MSL_15_01_3.jpg,Measles,Measles,0.9999
+MSL_15_01_7.jpg,Measles,Measles,0.9991
+MSL_15_01_9.jpg,Measles,Measles,0.9994
+MSL_16_01.jpg,Measles,Measles,1.0
+MSL_16_01_3.jpg,Measles,Measles,1.0
+MSL_16_01_6.jpg,Measles,Measles,1.0
+MSL_17_01_2.jpg,Measles,Measles,0.9911
+MSL_17_01_3.jpg,Measles,Measles,0.9894
+MSL_19_01_1.jpg,Measles,Measles,0.9955
+MSL_19_01_10.jpg,Measles,Measles,0.9936
+MSL_20_01_7.jpg,Measles,Measles,0.9995
+MSL_20_01_9.jpg,Measles,Measles,0.9996
+MSL_21_01_2.jpg,Measles,Measles,0.9986
+MSL_21_01_ORIGINAL.jpg,Measles,Measles,1.0
+MSL_22_01_13.jpg,Measles,Measles,1.0
+MSL_22_01_4.jpg,Measles,Measles,1.0
+MSL_23_01_8.jpg,Measles,Measles,0.9985
+MSL_24_01_1.jpg,Measles,Measles,1.0
+MSL_24_01_10.jpg,Measles,Measles,0.7761
+MSL_27_01.jpg,Measles,Measles,1.0
+MSL_27_01_6.jpg,Measles,Measles,0.9994
+MSL_27_01_8.jpg,Measles,Measles,1.0
+MSL_27_01_9.jpg,Measles,Measles,1.0
+MSL_28_01_3.jpg,Measles,Measles,0.9994
+MSL_28_01_8.jpg,Measles,Measles,0.9998
+MSL_29_01_10.jpg,Measles,Chickenpox,0.3127
+MSL_29_01_13.jpg,Measles,Measles,0.9994
+MSL_29_01_5.jpg,Measles,Measles,0.9997
+MSL_29_01_ORIGINAL.jpg,Measles,Measles,0.9994
+MSL_30_01_8.jpg,Measles,Measles,1.0
+MSL_32_01.jpg,Measles,Measles,1.0
+MSL_32_01_2.jpg,Measles,Measles,1.0
+MSL_32_01_9.jpg,Measles,Measles,1.0
+MSL_33_01_3.jpg,Measles,Measles,1.0
+MSL_34_01_4.jpg,Measles,Measles,0.9998
+MSL_34_01_8.jpg,Measles,Measles,0.9998
+MSL_35_01_10.jpg,Measles,Measles,0.9999
+MSL_36_01_8.jpg,Measles,Measles,1.0
+MSL_37_01_8.jpg,Measles,Measles,1.0
+MSL_38_01_2.jpg,Measles,Measles,0.9998
+MSL_39_01_2.jpg,Measles,Measles,0.9984
+MSL_39_01_5.jpg,Measles,Measles,0.9996
+MSL_39_01_9.jpg,Measles,Measles,1.0
+MSL_40_01_11.jpg,Measles,Measles,0.9999
+MSL_40_01_9.jpg,Measles,Measles,1.0
+MSL_40_02.jpg,Measles,Measles,1.0
+MSL_40_02_3.jpg,Measles,Measles,1.0
+MSL_41_01_1.jpg,Measles,Measles,1.0
+MSL_41_01_12.jpg,Measles,Measles,1.0
+MSL_41_01_7.jpg,Measles,Measles,0.9999
+MSL_41_01_9.jpg,Measles,Measles,1.0
+MSL_41_02_2.jpg,Measles,Measles,1.0
+MSL_42_01_12.jpg,Measles,Measles,1.0
+MSL_43_01_11.jpg,Measles,Measles,0.9949
+MSL_44_01_1.jpg,Measles,Measles,1.0
+MSL_44_01_11.jpg,Measles,Measles,0.9998
+MSL_44_01_5.jpg,Measles,Measles,1.0
+MSL_45_01_7.jpg,Measles,Measles,1.0
+MKP_01_01_13.jpg,Monkeypox,Monkeypox,0.9999
+MKP_01_02_4.jpg,Monkeypox,Monkeypox,1.0
+MKP_01_04.jpg,Monkeypox,Monkeypox,0.9993
+MKP_01_04_4.jpg,Monkeypox,Monkeypox,0.9716
+MKP_01_04_ORIGINAL.jpg,Monkeypox,Monkeypox,0.9999
+MKP_02_01_6.jpg,Monkeypox,Monkeypox,0.9998
+MKP_02_01_8.jpg,Monkeypox,Monkeypox,0.9994
+MKP_03_01_12.jpg,Monkeypox,Monkeypox,0.9183
+MKP_04_01.jpg,Monkeypox,Monkeypox,0.9999
+MKP_04_01_11.jpg,Monkeypox,Monkeypox,0.995
+MKP_04_01_2.jpg,Monkeypox,Monkeypox,0.9998
+MKP_05_01_11.jpg,Monkeypox,Monkeypox,1.0
+MKP_05_02_3.jpg,Monkeypox,Monkeypox,0.9999
+MKP_05_02_8.jpg,Monkeypox,Monkeypox,1.0
+MKP_06_01_8.jpg,Monkeypox,Monkeypox,1.0
+MKP_06_02_10.jpg,Monkeypox,Measles,0.5155
+MKP_06_02_2.jpg,Monkeypox,Monkeypox,1.0
+MKP_06_02_7.jpg,Monkeypox,Monkeypox,0.9997
+MKP_06_02_ORIGINAL.jpg,Monkeypox,Monkeypox,1.0
+MKP_07_01_3.jpg,Monkeypox,Monkeypox,1.0
+MKP_08_01.jpg,Monkeypox,Monkeypox,1.0
+MKP_08_01_11.jpg,Monkeypox,Monkeypox,0.9997
+MKP_08_01_6.jpg,Monkeypox,Monkeypox,0.9992
+MKP_09_02_7.jpg,Monkeypox,Monkeypox,1.0
+MKP_09_03_2.jpg,Monkeypox,Monkeypox,1.0
+MKP_09_03_3.jpg,Monkeypox,Monkeypox,0.9997
+MKP_09_04_11.jpg,Monkeypox,Monkeypox,0.751
+MKP_09_04_13.jpg,Monkeypox,Monkeypox,1.0
+MKP_09_04_5.jpg,Monkeypox,Monkeypox,1.0
+MKP_100_01_2.jpg,Monkeypox,Monkeypox,1.0
+MKP_100_01_7.jpg,Monkeypox,Monkeypox,0.9995
+MKP_102_01.jpg,Monkeypox,Monkeypox,0.9995
+MKP_103_01_1.jpg,Monkeypox,Monkeypox,1.0
+MKP_103_01_12.jpg,Monkeypox,Healthy,0.862
+MKP_103_01_5.jpg,Monkeypox,Monkeypox,1.0
+MKP_105_02_8.jpg,Monkeypox,Monkeypox,0.9598
+MKP_106_01_7.jpg,Monkeypox,Monkeypox,0.9999
+MKP_107_01_1.jpg,Monkeypox,Monkeypox,0.9933
+MKP_107_01_10.jpg,Monkeypox,Monkeypox,0.9785
+MKP_107_01_12.jpg,Monkeypox,Monkeypox,0.9675
+MKP_107_01_13.jpg,Monkeypox,Monkeypox,0.9999
+MKP_107_01_2.jpg,Monkeypox,Monkeypox,0.9987
+MKP_108_01_ORIGINAL.jpg,Monkeypox,Monkeypox,1.0
+MKP_108_02_10.jpg,Monkeypox,Monkeypox,0.9997
+MKP_108_03_1.jpg,Monkeypox,Monkeypox,0.7796
+MKP_108_03_7.jpg,Monkeypox,Monkeypox,0.9966
+MKP_109_01.jpg,Monkeypox,Monkeypox,1.0
+MKP_109_01_10.jpg,Monkeypox,Monkeypox,0.9594
+MKP_109_01_4.jpg,Monkeypox,Monkeypox,1.0
+MKP_10_01_2.jpg,Monkeypox,Monkeypox,0.9499
+MKP_10_01_8.jpg,Monkeypox,Monkeypox,0.9998
+MKP_10_02_3.jpg,Monkeypox,Monkeypox,0.9998
+MKP_10_02_5.jpg,Monkeypox,Monkeypox,0.9999
+MKP_110_01.jpg,Monkeypox,Monkeypox,0.9998
+MKP_111_01.jpg,Monkeypox,Monkeypox,1.0
+MKP_111_01_11.jpg,Monkeypox,Monkeypox,0.9998
+MKP_112_01_11.jpg,Monkeypox,Monkeypox,0.9998
+MKP_113_01_2.jpg,Monkeypox,Monkeypox,1.0
+MKP_113_01_4.jpg,Monkeypox,Monkeypox,0.9999
+MKP_113_01_7.jpg,Monkeypox,Monkeypox,0.9976
+MKP_113_01_ORIGINAL.jpg,Monkeypox,Monkeypox,0.9993
+MKP_113_03_7.jpg,Monkeypox,Monkeypox,0.9973
+MKP_113_03_9.jpg,Monkeypox,Monkeypox,0.9988
+MKP_114_01_6.jpg,Monkeypox,Monkeypox,0.9999
+MKP_115_01_13.jpg,Monkeypox,Monkeypox,0.9966
+MKP_116_01_9.jpg,Monkeypox,Monkeypox,1.0
+MKP_117_01_11.jpg,Monkeypox,Monkeypox,0.955
+MKP_119_01_ORIGINAL.jpg,Monkeypox,Monkeypox,1.0
+MKP_11_01_11.jpg,Monkeypox,Monkeypox,0.9688
+MKP_122_02.jpg,Monkeypox,Monkeypox,0.9923
+MKP_123_01_10.jpg,Monkeypox,Monkeypox,0.9753
+MKP_123_01_7.jpg,Monkeypox,Monkeypox,1.0
+MKP_124_01_11.jpg,Monkeypox,Monkeypox,0.9933
+MKP_124_02.jpg,Monkeypox,Monkeypox,0.9999
+MKP_124_02_13.jpg,Monkeypox,Monkeypox,0.9752
+MKP_124_02_4.jpg,Monkeypox,Monkeypox,0.9778
+MKP_126_01_2.jpg,Monkeypox,Monkeypox,1.0
+MKP_126_01_6.jpg,Monkeypox,Monkeypox,1.0
+MKP_126_01_ORIGINAL.jpg,Monkeypox,Monkeypox,0.9999
+MKP_129_01_3.jpg,Monkeypox,Monkeypox,1.0
+MKP_129_01_5.jpg,Monkeypox,Monkeypox,0.9998
+MKP_12_01_5.jpg,Monkeypox,Monkeypox,0.9994
+MKP_131_01_8.jpg,Monkeypox,Monkeypox,1.0
+MKP_133_01_11.jpg,Monkeypox,Monkeypox,0.9997
+MKP_133_01_7.jpg,Monkeypox,Monkeypox,1.0
+MKP_133_01_8.jpg,Monkeypox,Monkeypox,1.0
+MKP_135_01_8.jpg,Monkeypox,Monkeypox,0.9998
+MKP_136_01_4.jpg,Monkeypox,Monkeypox,0.9976
+MKP_136_01_5.jpg,Monkeypox,Monkeypox,0.9902
+MKP_138_01_13.jpg,Monkeypox,Monkeypox,0.9999
+MKP_139_01_11.jpg,Monkeypox,Monkeypox,0.6402
+MKP_139_01_7.jpg,Monkeypox,Monkeypox,0.995
+MKP_139_02_12.jpg,Monkeypox,Monkeypox,0.9992
+MKP_139_02_9.jpg,Monkeypox,Monkeypox,1.0
+MKP_13_01.jpg,Monkeypox,Monkeypox,1.0
+MKP_141_01_ORIGINAL.jpg,Monkeypox,Monkeypox,1.0
+MKP_142_01_12.jpg,Monkeypox,Monkeypox,0.9997
+MKP_142_05_12.jpg,Monkeypox,Monkeypox,1.0
+MKP_142_05_6.jpg,Monkeypox,Monkeypox,1.0
+MKP_142_06_1.jpg,Monkeypox,Monkeypox,1.0
+MKP_142_06_12.jpg,Monkeypox,Monkeypox,0.9996
+MKP_142_06_13.jpg,Monkeypox,Monkeypox,1.0
+MKP_142_06_8.jpg,Monkeypox,Monkeypox,1.0
+MKP_142_07_5.jpg,Monkeypox,Monkeypox,0.9996
+MKP_142_08_5.jpg,Monkeypox,Monkeypox,0.9951
+MKP_143_01_3.jpg,Monkeypox,Monkeypox,0.9501
+MKP_143_01_7.jpg,Monkeypox,Monkeypox,0.9179
+MKP_143_01_9.jpg,Monkeypox,Monkeypox,0.9916
+MKP_14_01_12.jpg,Monkeypox,Monkeypox,0.9999
+MKP_16_01_10.jpg,Monkeypox,Chickenpox,0.6208
+MKP_16_01_13.jpg,Monkeypox,Monkeypox,1.0
+MKP_16_01_8.jpg,Monkeypox,Monkeypox,1.0
+MKP_17_01_4.jpg,Monkeypox,Monkeypox,0.9999
+MKP_17_02_1.jpg,Monkeypox,Monkeypox,0.9916
+MKP_17_02_5.jpg,Monkeypox,Monkeypox,0.9789
+MKP_17_02_8.jpg,Monkeypox,Monkeypox,0.993
+MKP_17_02_9.jpg,Monkeypox,Monkeypox,0.9968
+MKP_18_01_ORIGINAL.jpg,Monkeypox,Monkeypox,1.0
+MKP_18_02_4.jpg,Monkeypox,Monkeypox,0.9993
+MKP_18_02_7.jpg,Monkeypox,Monkeypox,0.7801
+MKP_18_02_9.jpg,Monkeypox,Monkeypox,0.9996
+MKP_19_02_13.jpg,Monkeypox,Monkeypox,0.9999
+MKP_19_02_8.jpg,Monkeypox,Monkeypox,1.0
+MKP_20_01_13.jpg,Monkeypox,Monkeypox,0.9912
+MKP_20_01_3.jpg,Monkeypox,Monkeypox,0.9988
+MKP_20_01_7.jpg,Monkeypox,Monkeypox,0.8501
+MKP_21_01_3.jpg,Monkeypox,Monkeypox,1.0
+MKP_21_01_9.jpg,Monkeypox,Monkeypox,1.0
+MKP_21_02_10.jpg,Monkeypox,Chickenpox,0.544
+MKP_21_02_5.jpg,Monkeypox,Monkeypox,1.0
+MKP_22_01_13.jpg,Monkeypox,Monkeypox,1.0
+MKP_22_01_5.jpg,Monkeypox,Monkeypox,0.9999
+MKP_22_01_6.jpg,Monkeypox,Monkeypox,0.9196
+MKP_23_01_10.jpg,Monkeypox,Monkeypox,0.9941
+MKP_23_01_11.jpg,Monkeypox,Monkeypox,0.9995
+MKP_23_01_7.jpg,Monkeypox,Monkeypox,0.8949
+MKP_24_02_6.jpg,Monkeypox,Monkeypox,1.0
+MKP_25_01_6.jpg,Monkeypox,Monkeypox,1.0
+MKP_25_02_11.jpg,Monkeypox,Monkeypox,0.9997
+MKP_25_02_6.jpg,Monkeypox,Monkeypox,0.9999
+MKP_25_02_7.jpg,Monkeypox,Monkeypox,0.9992
+MKP_25_02_9.jpg,Monkeypox,Monkeypox,0.9999
+MKP_26_01_12.jpg,Monkeypox,Monkeypox,0.9908
+MKP_26_01_4.jpg,Monkeypox,Monkeypox,0.999
+MKP_26_01_8.jpg,Monkeypox,Monkeypox,0.9986
+MKP_26_02_3.jpg,Monkeypox,Monkeypox,0.9987
+MKP_27_01_1.jpg,Monkeypox,Monkeypox,0.9647
+MKP_28_01.jpg,Monkeypox,Monkeypox,1.0
+MKP_28_01_4.jpg,Monkeypox,Monkeypox,0.9826
+MKP_28_01_7.jpg,Monkeypox,Monkeypox,0.9999
+MKP_28_01_9.jpg,Monkeypox,Monkeypox,1.0
+MKP_28_02_2.jpg,Monkeypox,Monkeypox,0.9997
+MKP_28_03_12.jpg,Monkeypox,Monkeypox,0.9989
+MKP_28_03_3.jpg,Monkeypox,Monkeypox,0.9994
+MKP_29_01_2.jpg,Monkeypox,Monkeypox,1.0
+MKP_29_01_3.jpg,Monkeypox,Monkeypox,1.0
+MKP_29_01_7.jpg,Monkeypox,Monkeypox,1.0
+MKP_29_02_12.jpg,Monkeypox,Monkeypox,0.992
+MKP_29_02_4.jpg,Monkeypox,Monkeypox,0.9996
+MKP_29_02_5.jpg,Monkeypox,Monkeypox,1.0
+MKP_31_01_1.jpg,Monkeypox,Monkeypox,0.9979
+MKP_31_01_8.jpg,Monkeypox,Monkeypox,0.9993
+MKP_31_01_ORIGINAL.jpg,Monkeypox,Monkeypox,0.9992
+MKP_31_02_10.jpg,Monkeypox,Monkeypox,0.9682
+MKP_31_02_13.jpg,Monkeypox,HFMD,0.732
+MKP_31_02_5.jpg,Monkeypox,HFMD,0.8539
+MKP_32_01_11.jpg,Monkeypox,Monkeypox,0.9999
+MKP_32_01_2.jpg,Monkeypox,Monkeypox,0.9997
+MKP_32_01_4.jpg,Monkeypox,Monkeypox,0.9954
+MKP_32_02_5.jpg,Monkeypox,Monkeypox,0.9999
+MKP_32_03_13.jpg,Monkeypox,Monkeypox,0.9999
+MKP_32_03_9.jpg,Monkeypox,Monkeypox,1.0
+MKP_32_03_ORIGINAL.jpg,Monkeypox,Monkeypox,0.9999
+MKP_32_04.jpg,Monkeypox,Monkeypox,0.9991
+MKP_32_04_11.jpg,Monkeypox,Monkeypox,0.9994
+MKP_33_02_4.jpg,Monkeypox,Monkeypox,1.0
+MKP_33_02_9.jpg,Monkeypox,Monkeypox,1.0
+MKP_34_02_9.jpg,Monkeypox,Monkeypox,1.0
+MKP_34_02_ORIGINAL.jpg,Monkeypox,Monkeypox,1.0
+MKP_34_03_10.jpg,Monkeypox,Monkeypox,0.8301
+MKP_35_01_3.jpg,Monkeypox,Monkeypox,0.999
+MKP_35_01_6.jpg,Monkeypox,Monkeypox,0.9219
+MKP_37_01_11.jpg,Monkeypox,Monkeypox,0.9992
+MKP_37_01_13.jpg,Monkeypox,Monkeypox,0.9987
+MKP_38_02_12.jpg,Monkeypox,Monkeypox,0.9991
+MKP_38_02_2.jpg,Monkeypox,Monkeypox,0.9995
+MKP_38_02_5.jpg,Monkeypox,Monkeypox,0.9996
+MKP_38_02_9.jpg,Monkeypox,Monkeypox,0.9995
+MKP_39_01_10.jpg,Monkeypox,Monkeypox,0.9075
+MKP_39_01_2.jpg,Monkeypox,Monkeypox,1.0
+MKP_39_02.jpg,Monkeypox,Monkeypox,1.0
+MKP_40_02_13.jpg,Monkeypox,Monkeypox,1.0
+MKP_40_03_13.jpg,Monkeypox,Monkeypox,0.9999
+MKP_40_03_6.jpg,Monkeypox,Monkeypox,1.0
+MKP_40_03_8.jpg,Monkeypox,Monkeypox,1.0
+MKP_41_01_6.jpg,Monkeypox,Chickenpox,0.9557
+MKP_42_01_2.jpg,Monkeypox,Monkeypox,0.9995
+MKP_42_01_ORIGINAL.jpg,Monkeypox,Monkeypox,0.9998
+MKP_42_02_12.jpg,Monkeypox,Monkeypox,0.8226
+MKP_42_02_2.jpg,Monkeypox,Monkeypox,1.0
+MKP_43_01_7.jpg,Monkeypox,Monkeypox,0.9995
+MKP_43_01_8.jpg,Monkeypox,Monkeypox,1.0
+MKP_43_02_13.jpg,Monkeypox,Monkeypox,1.0
+MKP_44_01_10.jpg,Monkeypox,Monkeypox,0.995
+MKP_44_01_11.jpg,Monkeypox,Monkeypox,0.9989
+MKP_45_01_10.jpg,Monkeypox,Measles,0.7046
+MKP_45_01_13.jpg,Monkeypox,Monkeypox,0.9999
+MKP_45_01_2.jpg,Monkeypox,Monkeypox,1.0
+MKP_45_01_6.jpg,Monkeypox,Monkeypox,0.9999
+MKP_45_01_ORIGINAL.jpg,Monkeypox,Monkeypox,0.9999
+MKP_46_01_3.jpg,Monkeypox,Monkeypox,0.9988
+MKP_46_02_10.jpg,Monkeypox,Monkeypox,0.9975
+MKP_46_02_2.jpg,Monkeypox,Monkeypox,1.0
+MKP_48_02_12.jpg,Monkeypox,Healthy,0.6234
+MKP_48_02_5.jpg,Monkeypox,Monkeypox,0.9969
+MKP_48_03_12.jpg,Monkeypox,Monkeypox,0.6427
+MKP_48_03_8.jpg,Monkeypox,Monkeypox,0.9951
+MKP_49_01_11.jpg,Monkeypox,Monkeypox,0.9951
+MKP_49_02_2.jpg,Monkeypox,Monkeypox,0.9985
+MKP_49_03_11.jpg,Monkeypox,Monkeypox,0.9997
+MKP_50_01_12.jpg,Monkeypox,Monkeypox,0.9998
+MKP_50_02_10.jpg,Monkeypox,Monkeypox,0.9823
+MKP_50_02_6.jpg,Monkeypox,Monkeypox,1.0
+MKP_50_02_8.jpg,Monkeypox,Monkeypox,0.9999
+MKP_50_03_11.jpg,Monkeypox,Monkeypox,1.0
+MKP_50_03_4.jpg,Monkeypox,Monkeypox,0.9868
+MKP_50_03_9.jpg,Monkeypox,Monkeypox,0.9999
+MKP_51_01_11.jpg,Monkeypox,Monkeypox,1.0
+MKP_51_02_13.jpg,Monkeypox,Monkeypox,1.0
+MKP_53_01.jpg,Monkeypox,Monkeypox,0.9993
+MKP_53_01_ORIGINAL.jpg,Monkeypox,Monkeypox,0.9995
+MKP_54_01_11.jpg,Monkeypox,Monkeypox,0.7714
+MKP_54_01_4.jpg,Monkeypox,Monkeypox,0.9949
+MKP_54_01_7.jpg,Monkeypox,Monkeypox,0.9994
+MKP_55_01_12.jpg,Monkeypox,Monkeypox,1.0
+MKP_56_01_ORIGINAL.jpg,Monkeypox,Monkeypox,0.9996
+MKP_57_01_13.jpg,Monkeypox,Monkeypox,1.0
+MKP_58_01_11.jpg,Monkeypox,Monkeypox,0.929
+MKP_58_01_13.jpg,Monkeypox,Monkeypox,0.9998
+MKP_58_03.jpg,Monkeypox,Monkeypox,1.0
+MKP_58_03_12.jpg,Monkeypox,HFMD,0.8371
+MKP_58_04_5.jpg,Monkeypox,Monkeypox,1.0
+MKP_58_04_8.jpg,Monkeypox,Monkeypox,0.9974
+MKP_58_05_5.jpg,Monkeypox,Monkeypox,0.8216
+MKP_58_05_ORIGINAL.jpg,Monkeypox,Monkeypox,0.9546
+MKP_58_06_13.jpg,Monkeypox,Monkeypox,0.9995
+MKP_58_07.jpg,Monkeypox,Monkeypox,0.9993
+MKP_58_07_12.jpg,Monkeypox,Monkeypox,0.939
+MKP_58_07_5.jpg,Monkeypox,Monkeypox,0.9166
+MKP_58_07_8.jpg,Monkeypox,Monkeypox,0.9879
+MKP_58_09_10.jpg,Monkeypox,Monkeypox,0.997
+MKP_58_11_6.jpg,Monkeypox,HFMD,0.8107
+MKP_58_12_9.jpg,Monkeypox,Monkeypox,0.9999
+MKP_58_13_11.jpg,Monkeypox,Monkeypox,0.9372
+MKP_58_13_8.jpg,Monkeypox,Monkeypox,0.9997
+MKP_58_14.jpg,Monkeypox,Monkeypox,0.9985
+MKP_59_01_ORIGINAL.jpg,Monkeypox,Monkeypox,0.9998
+MKP_60_01_12.jpg,Monkeypox,HFMD,0.9887
+MKP_60_02_5.jpg,Monkeypox,Monkeypox,0.994
+MKP_61_02_11.jpg,Monkeypox,Monkeypox,0.9994
+MKP_61_02_13.jpg,Monkeypox,Monkeypox,1.0
+MKP_61_02_3.jpg,Monkeypox,Monkeypox,0.9999
+MKP_62_01.jpg,Monkeypox,Monkeypox,0.9995
+MKP_62_01_ORIGINAL.jpg,Monkeypox,Monkeypox,1.0
+MKP_62_02_9.jpg,Monkeypox,Monkeypox,0.7443
+MKP_63_01_1.jpg,Monkeypox,Monkeypox,1.0
+MKP_63_02_13.jpg,Monkeypox,Monkeypox,1.0
+MKP_63_04_2.jpg,Monkeypox,Monkeypox,0.9999
+MKP_63_04_5.jpg,Monkeypox,Monkeypox,0.9997
+MKP_63_04_8.jpg,Monkeypox,Monkeypox,0.9999
+MKP_63_05_6.jpg,Monkeypox,Monkeypox,1.0
+MKP_63_05_7.jpg,Monkeypox,Monkeypox,0.9997
+MKP_63_07_12.jpg,Monkeypox,Measles,0.6463
+MKP_63_07_2.jpg,Monkeypox,Monkeypox,0.9965
+MKP_63_07_6.jpg,Monkeypox,Monkeypox,0.999
+MKP_63_08_1.jpg,Monkeypox,Monkeypox,0.9998
+MKP_64_01_3.jpg,Monkeypox,Monkeypox,0.9997
+MKP_64_01_5.jpg,Monkeypox,Monkeypox,1.0
+MKP_64_02_8.jpg,Monkeypox,Monkeypox,0.999
+MKP_64_04_2.jpg,Monkeypox,Monkeypox,0.9921
+MKP_64_04_8.jpg,Monkeypox,Monkeypox,0.9999
+MKP_64_05.jpg,Monkeypox,Monkeypox,1.0
+MKP_64_07.jpg,Monkeypox,Monkeypox,0.9999
+MKP_64_07_3.jpg,Monkeypox,Monkeypox,0.9987
+MKP_64_07_8.jpg,Monkeypox,Monkeypox,0.9999
+MKP_64_08_11.jpg,Monkeypox,Monkeypox,0.9992
+MKP_65_01_10.jpg,Monkeypox,Monkeypox,0.9746
+MKP_66_01_11.jpg,Monkeypox,Monkeypox,0.9841
+MKP_66_01_5.jpg,Monkeypox,Monkeypox,1.0
+MKP_66_01_ORIGINAL.jpg,Monkeypox,Monkeypox,0.9999
+MKP_67_01_ORIGINAL.jpg,Monkeypox,Monkeypox,1.0
+MKP_68_01_ORIGINAL.jpg,Monkeypox,Monkeypox,1.0
+MKP_69_01.jpg,Monkeypox,Monkeypox,0.9952
+MKP_69_01_2.jpg,Monkeypox,Monkeypox,0.9475
+MKP_69_01_9.jpg,Monkeypox,Monkeypox,0.9993
+MKP_69_01_ORIGINAL.jpg,Monkeypox,Monkeypox,1.0
+MKP_69_03_13.jpg,Monkeypox,Monkeypox,0.9999
+MKP_70_01_10.jpg,Monkeypox,Monkeypox,0.939
+MKP_71_01_7.jpg,Monkeypox,Monkeypox,1.0
+MKP_71_02_4.jpg,Monkeypox,Monkeypox,0.9262
+MKP_71_03_4.jpg,Monkeypox,Monkeypox,1.0
+MKP_71_03_8.jpg,Monkeypox,Monkeypox,0.9997
+MKP_71_04.jpg,Monkeypox,Monkeypox,1.0
+MKP_71_04_2.jpg,Monkeypox,Monkeypox,0.9996
+MKP_71_04_4.jpg,Monkeypox,Monkeypox,1.0
+MKP_71_04_7.jpg,Monkeypox,Monkeypox,1.0
+MKP_72_01_1.jpg,Monkeypox,Monkeypox,0.979
+MKP_72_01_11.jpg,Monkeypox,Monkeypox,0.9999
+MKP_72_01_2.jpg,Monkeypox,Monkeypox,0.993
+MKP_72_01_5.jpg,Monkeypox,Monkeypox,0.9996
+MKP_72_02_7.jpg,Monkeypox,Monkeypox,0.9995
+MKP_72_03_10.jpg,Monkeypox,Monkeypox,0.8153
+MKP_72_03_3.jpg,Monkeypox,Monkeypox,1.0
+MKP_72_04_10.jpg,Monkeypox,Monkeypox,0.9994
+MKP_72_04_6.jpg,Monkeypox,Monkeypox,0.9999
+MKP_72_05_1.jpg,Monkeypox,Monkeypox,1.0
+MKP_72_05_10.jpg,Monkeypox,Monkeypox,0.7198
+MKP_72_05_12.jpg,Monkeypox,Monkeypox,0.7487
+MKP_72_05_4.jpg,Monkeypox,Monkeypox,0.9852
+MKP_72_06_8.jpg,Monkeypox,Monkeypox,0.9915
+MKP_72_07_2.jpg,Monkeypox,Monkeypox,0.9983
+MKP_72_07_ORIGINAL.jpg,Monkeypox,Monkeypox,0.9998
+MKP_72_08_4.jpg,Monkeypox,Monkeypox,0.996
+MKP_72_08_7.jpg,Monkeypox,Monkeypox,0.9964
+MKP_73_01_1.jpg,Monkeypox,Monkeypox,0.9999
+MKP_73_01_12.jpg,Monkeypox,Monkeypox,0.8344
+MKP_73_01_ORIGINAL.jpg,Monkeypox,Monkeypox,0.9998
+MKP_73_03_13.jpg,Monkeypox,Monkeypox,0.9998
+MKP_73_03_8.jpg,Monkeypox,Monkeypox,0.9996
+MKP_73_04_10.jpg,Monkeypox,Monkeypox,0.9972
+MKP_73_04_12.jpg,Monkeypox,Monkeypox,0.9981
+MKP_73_04_13.jpg,Monkeypox,Monkeypox,0.9999
+MKP_73_04_2.jpg,Monkeypox,Monkeypox,0.9998
+MKP_73_04_4.jpg,Monkeypox,Monkeypox,0.9997
+MKP_73_05_5.jpg,Monkeypox,Monkeypox,1.0
+MKP_73_06_1.jpg,Monkeypox,Monkeypox,0.9996
+MKP_74_01_4.jpg,Monkeypox,Monkeypox,1.0
+MKP_74_01_5.jpg,Monkeypox,Monkeypox,0.9998
+MKP_74_02_1.jpg,Monkeypox,HFMD,0.8278
+MKP_74_03_ORIGINAL.jpg,Monkeypox,Monkeypox,0.9998
+MKP_75_01_2.jpg,Monkeypox,Monkeypox,0.9998
+MKP_75_01_4.jpg,Monkeypox,Monkeypox,1.0
+MKP_75_01_5.jpg,Monkeypox,Monkeypox,0.9997
+MKP_75_01_8.jpg,Monkeypox,Monkeypox,0.9998
+MKP_75_03_1.jpg,Monkeypox,Monkeypox,1.0
+MKP_75_03_2.jpg,Monkeypox,Monkeypox,1.0
+MKP_75_03_3.jpg,Monkeypox,Monkeypox,1.0
+MKP_75_03_4.jpg,Monkeypox,Monkeypox,1.0
+MKP_75_05_3.jpg,Monkeypox,Monkeypox,1.0
+MKP_75_05_6.jpg,Monkeypox,Monkeypox,0.9999
+MKP_75_06_11.jpg,Monkeypox,Monkeypox,1.0
+MKP_76_01_11.jpg,Monkeypox,Monkeypox,0.5188
+MKP_76_01_12.jpg,Monkeypox,Monkeypox,0.9695
+MKP_77_01.jpg,Monkeypox,Monkeypox,0.9977
+MKP_78_01_5.jpg,Monkeypox,Monkeypox,0.9999
+MKP_78_02_8.jpg,Monkeypox,Monkeypox,1.0
+MKP_78_04.jpg,Monkeypox,Monkeypox,1.0
+MKP_78_05_10.jpg,Monkeypox,Monkeypox,0.8861
+MKP_78_05_7.jpg,Monkeypox,Monkeypox,0.9996
+MKP_78_05_9.jpg,Monkeypox,Monkeypox,1.0
+MKP_79_01_11.jpg,Monkeypox,Monkeypox,0.9997
+MKP_79_01_2.jpg,Monkeypox,Monkeypox,1.0
+MKP_79_01_6.jpg,Monkeypox,Monkeypox,1.0
+MKP_80_01_13.jpg,Monkeypox,Monkeypox,0.9999
+MKP_80_01_5.jpg,Monkeypox,Monkeypox,0.9998
+MKP_80_02.jpg,Monkeypox,Monkeypox,0.9993
+MKP_80_02_2.jpg,Monkeypox,Monkeypox,0.9994
+MKP_80_02_3.jpg,Monkeypox,Monkeypox,0.9994
+MKP_80_03_13.jpg,Monkeypox,Monkeypox,1.0
+MKP_80_03_8.jpg,Monkeypox,Monkeypox,1.0
+MKP_80_04_10.jpg,Monkeypox,Monkeypox,0.786
+MKP_80_04_ORIGINAL.jpg,Monkeypox,Monkeypox,0.9999
+MKP_80_05.jpg,Monkeypox,Monkeypox,0.9999
+MKP_80_05_2.jpg,Monkeypox,Monkeypox,1.0
+MKP_81_01.jpg,Monkeypox,Monkeypox,1.0
+MKP_81_01_1.jpg,Monkeypox,Monkeypox,0.9939
+MKP_81_01_6.jpg,Monkeypox,Monkeypox,0.9796
+MKP_81_02_8.jpg,Monkeypox,Monkeypox,0.995
+MKP_82_01_11.jpg,Monkeypox,Monkeypox,0.991
+MKP_82_01_12.jpg,Monkeypox,Monkeypox,0.9945
+MKP_82_02_5.jpg,Monkeypox,Monkeypox,0.9999
+MKP_82_02_8.jpg,Monkeypox,Monkeypox,0.8288
+MKP_83_01_4.jpg,Monkeypox,Monkeypox,0.9883
+MKP_83_02.jpg,Monkeypox,Monkeypox,1.0
+MKP_83_03.jpg,Monkeypox,Monkeypox,1.0
+MKP_83_03_10.jpg,Monkeypox,Monkeypox,0.804
+MKP_83_05_12.jpg,Monkeypox,Chickenpox,0.5435
+MKP_83_05_5.jpg,Monkeypox,Monkeypox,1.0
+MKP_83_06_10.jpg,Monkeypox,Cowpox,0.9855
+MKP_83_06_ORIGINAL.jpg,Monkeypox,Monkeypox,0.9999
+MKP_86_01_1.jpg,Monkeypox,Monkeypox,1.0
+MKP_86_01_12.jpg,Monkeypox,Monkeypox,0.9999
+MKP_86_01_9.jpg,Monkeypox,Monkeypox,1.0
+MKP_86_04.jpg,Monkeypox,Monkeypox,1.0
+MKP_86_04_2.jpg,Monkeypox,Monkeypox,0.9998
+MKP_87_01_2.jpg,Monkeypox,Monkeypox,0.9999
+MKP_87_01_5.jpg,Monkeypox,Monkeypox,0.9998
+MKP_87_01_7.jpg,Monkeypox,Monkeypox,0.9998
+MKP_87_01_ORIGINAL.jpg,Monkeypox,Monkeypox,1.0
+MKP_87_02_6.jpg,Monkeypox,Monkeypox,1.0
+MKP_87_02_9.jpg,Monkeypox,Monkeypox,1.0
+MKP_87_03_8.jpg,Monkeypox,Monkeypox,0.9995
+MKP_88_02_13.jpg,Monkeypox,Monkeypox,1.0
+MKP_88_02_2.jpg,Monkeypox,Monkeypox,0.9986
+MKP_88_03_3.jpg,Monkeypox,Monkeypox,0.9995
+MKP_88_03_5.jpg,Monkeypox,Monkeypox,0.9945
+MKP_90_02_10.jpg,Monkeypox,Monkeypox,0.9903
+MKP_90_02_3.jpg,Monkeypox,Monkeypox,0.9785
+MKP_90_03_5.jpg,Monkeypox,Monkeypox,0.9999
+MKP_92_01_10.jpg,Monkeypox,Healthy,0.7135
+MKP_92_01_12.jpg,Monkeypox,Chickenpox,0.8495
+MKP_92_01_2.jpg,Monkeypox,Monkeypox,0.9995
+MKP_92_01_5.jpg,Monkeypox,Monkeypox,0.9992
+MKP_93_01_10.jpg,Monkeypox,HFMD,0.4672
+MKP_93_01_5.jpg,Monkeypox,Monkeypox,1.0
+MKP_93_02_3.jpg,Monkeypox,Monkeypox,0.9833
+MKP_93_02_4.jpg,Monkeypox,Monkeypox,1.0
+MKP_93_02_9.jpg,Monkeypox,Monkeypox,1.0
+MKP_93_03_7.jpg,Monkeypox,Monkeypox,0.9851
+MKP_94_01_3.jpg,Monkeypox,Monkeypox,0.9801
+MKP_96_01.jpg,Monkeypox,Monkeypox,1.0
+MKP_97_01.jpg,Monkeypox,Monkeypox,0.9988
+MKP_98_01_13.jpg,Monkeypox,Monkeypox,0.9964
+MKP_98_01_3.jpg,Monkeypox,Monkeypox,0.9997
+MKP_99_01_13.jpg,Monkeypox,Monkeypox,1.0
+MKP_99_01_4.jpg,Monkeypox,Monkeypox,0.9802
+ISIC_0024925.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9972
+ISIC_0024946.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.8
+ISIC_0025029.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9989
+ISIC_0025319.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.8849
+ISIC_0025350.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9828
+ISIC_0025712.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9491
+ISIC_0026083.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9972
+ISIC_0026152.jpg,Squamous cell carcinoma,Actinic keratoses,0.8034
+ISIC_0026466.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.99
+ISIC_0026492.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9532
+ISIC_0026872.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9454
+ISIC_0026981.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9791
+ISIC_0027047.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9779
+ISIC_0027529.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.887
+ISIC_0027708.jpg,Squamous cell carcinoma,Actinic keratoses,0.9855
+ISIC_0028335.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9267
+ISIC_0030191.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9998
+ISIC_0030280.jpg,Squamous cell carcinoma,Actinic keratoses,0.6242
+ISIC_0032277.jpg,Squamous cell carcinoma,Actinic keratoses,0.6546
+ISIC_0032329.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9692
+ISIC_0032947.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9931
+ISIC_0054644.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.7173
+ISIC_0055328.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.8011
+ISIC_0056925.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9987
+ISIC_0057421.jpg,Squamous cell carcinoma,Actinic keratoses,0.6058
+ISIC_0057426.jpg,Squamous cell carcinoma,Squamous cell carcinoma,1.0
+ISIC_0057492.jpg,Squamous cell carcinoma,Squamous cell carcinoma,1.0
+ISIC_0058185.jpg,Squamous cell carcinoma,Actinic keratoses,0.9764
+ISIC_0058622.jpg,Squamous cell carcinoma,Squamous cell carcinoma,1.0
+ISIC_0058690.jpg,Squamous cell carcinoma,Squamous cell carcinoma,1.0
+ISIC_0058972.jpg,Squamous cell carcinoma,Squamous cell carcinoma,1.0
+ISIC_0059952.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9993
+ISIC_0060356.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9987
+ISIC_0060478.jpg,Squamous cell carcinoma,Actinic keratoses,0.8408
+ISIC_0060549.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9994
+ISIC_0060850.jpg,Squamous cell carcinoma,Squamous cell carcinoma,1.0
+ISIC_0061099.jpg,Squamous cell carcinoma,Squamous cell carcinoma,1.0
+ISIC_0061197.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9997
+ISIC_0062117.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.8788
+ISIC_0062233.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9989
+ISIC_0062261.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9992
+ISIC_0063217.jpg,Squamous cell carcinoma,Squamous cell carcinoma,1.0
+ISIC_0064016.jpg,Squamous cell carcinoma,Vascular lesions,0.6907
+ISIC_0064371.jpg,Squamous cell carcinoma,Squamous cell carcinoma,1.0
+ISIC_0065816.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9998
+ISIC_0066491.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.7132
+ISIC_0067280.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.8462
+ISIC_0067527.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.845
+ISIC_0067868.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9925
+ISIC_0067935.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9996
+ISIC_0068071.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9998
+ISIC_0068409.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9862
+ISIC_0068572.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9993
+ISIC_0068666.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9999
+ISIC_0068997.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9981
+ISIC_0069446.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9999
+ISIC_0069636.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.8382
+ISIC_0070035.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.7515
+ISIC_0070083.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9999
+ISIC_0071023.jpg,Squamous cell carcinoma,Squamous cell carcinoma,1.0
+ISIC_0071077.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9972
+ISIC_0071322.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9971
+ISIC_0072546.jpg,Squamous cell carcinoma,Squamous cell carcinoma,1.0
+ISIC_0072708.jpg,Squamous cell carcinoma,Squamous cell carcinoma,0.9949
+ISIC_0024867.jpg,Vascular lesions,Vascular lesions,0.9999
+ISIC_0024904.jpg,Vascular lesions,Vascular lesions,0.9999
+ISIC_0026068.jpg,Vascular lesions,Vascular lesions,0.9999
+ISIC_0026876.jpg,Vascular lesions,Vascular lesions,1.0
+ISIC_0027159.jpg,Vascular lesions,Vascular lesions,0.9999
+ISIC_0027672.jpg,Vascular lesions,Vascular lesions,1.0
+ISIC_0029439.jpg,Vascular lesions,Vascular lesions,1.0
+ISIC_0031090.jpg,Vascular lesions,Vascular lesions,1.0
+ISIC_0031648.jpg,Vascular lesions,Vascular lesions,1.0
+ISIC_0032240.jpg,Vascular lesions,Vascular lesions,1.0
+ISIC_0032409.jpg,Vascular lesions,Vascular lesions,1.0
+ISIC_0032867.jpg,Vascular lesions,Vascular lesions,1.0
+ISIC_0033031.jpg,Vascular lesions,Vascular lesions,0.9999
+ISIC_0033254.jpg,Vascular lesions,Vascular lesions,1.0
+ISIC_0033591.jpg,Vascular lesions,Vascular lesions,1.0
+ISIC_0058737.jpg,Vascular lesions,Vascular lesions,0.9999
+ISIC_0059298.jpg,Vascular lesions,Vascular lesions,1.0
+ISIC_0061557.jpg,Vascular lesions,Vascular lesions,1.0
+ISIC_0061878.jpg,Vascular lesions,Vascular lesions,0.9999
+ISIC_0064315.jpg,Vascular lesions,Vascular lesions,0.9994
+ISIC_0066461.jpg,Vascular lesions,Vascular lesions,1.0
+ISIC_0067166.jpg,Vascular lesions,Vascular lesions,1.0
+ISIC_0070723.jpg,Vascular lesions,Vascular lesions,1.0
+ISIC_0072651.jpg,Vascular lesions,Vascular lesions,0.9999
+ISIC_0072919.jpg,Vascular lesions,Vascular lesions,0.9998
+ISIC_0072937.jpg,Vascular lesions,Vascular lesions,1.0
