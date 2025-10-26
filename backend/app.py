@@ -79,18 +79,32 @@ def try_load_model(path, name):
 
     # If it's a state_dict (dict)
     if isinstance(obj, dict):
+        # handle wrapped checkpoints saved by training notebooks
+        ckpt = obj
         state = obj
+        # unwrap common wrapper keys
+        if 'model_state_dict' in obj:
+            state = obj['model_state_dict']
+        # prefer explicit num_classes if present in wrapper
+        ckpt_num_classes = None
+        if isinstance(ckpt, dict) and 'num_classes' in ckpt:
+            try:
+                ckpt_num_classes = int(ckpt.get('num_classes'))
+            except Exception:
+                ckpt_num_classes = None
 
-        # try to infer number of output classes from checkpoint keys
-        num_classes = None
-        if 'fc.weight' in state:
-            num_classes = state['fc.weight'].shape[0]
-        elif 'classifier.3.weight' in state:
-            num_classes = state['classifier.3.weight'].shape[0]
-        elif 'classifier.1.weight' in state:
-            num_classes = state['classifier.1.weight'].shape[0]
-        elif 'classifier.weight' in state:
-            num_classes = state['classifier.weight'].shape[0]
+        # try to infer number of output classes from checkpoint keys if not provided
+        num_classes = ckpt_num_classes
+        if num_classes is None:
+            if isinstance(state, dict):
+                if 'fc.weight' in state:
+                    num_classes = state['fc.weight'].shape[0]
+                elif 'classifier.3.weight' in state:
+                    num_classes = state['classifier.3.weight'].shape[0]
+                elif 'classifier.1.weight' in state:
+                    num_classes = state['classifier.1.weight'].shape[0]
+                elif 'classifier.weight' in state:
+                    num_classes = state['classifier.weight'].shape[0]
 
         try:
             # Instantiate and adapt model according to inferred architecture name
@@ -110,7 +124,11 @@ def try_load_model(path, name):
                 model = models.densenet121(weights=None)
                 if num_classes is not None:
                     num_ftrs = model.classifier.in_features
-                    model.classifier = torch.nn.Linear(num_ftrs, int(num_classes))
+                    # match training notebook: Sequential(Dropout(0.3), Linear(num_ftrs, num_classes))
+                    model.classifier = torch.nn.Sequential(
+                        torch.nn.Dropout(0.3),
+                        torch.nn.Linear(num_ftrs, int(num_classes))
+                    )
                 model.to(device)
                 model.load_state_dict(state, strict=False)
                 model.eval()
@@ -125,7 +143,12 @@ def try_load_model(path, name):
                         model.classifier[1] = torch.nn.Linear(num_ftrs, int(num_classes))
                     except Exception:
                         # fallback to replace whole classifier
-                        model.classifier = torch.nn.Sequential(torch.nn.Dropout(0.2), torch.nn.Linear(model.classifier[1].in_features, int(num_classes)))
+                        try:
+                            num_ftrs = model.classifier[1].in_features
+                        except Exception:
+                            num_ftrs = None
+                        if num_ftrs is not None:
+                            model.classifier = torch.nn.Sequential(torch.nn.Dropout(0.2), torch.nn.Linear(num_ftrs, int(num_classes)))
                 model.to(device)
                 model.load_state_dict(state, strict=False)
                 model.eval()
