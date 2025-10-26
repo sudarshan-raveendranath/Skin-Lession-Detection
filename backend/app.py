@@ -24,7 +24,7 @@ MODEL_FILES = {
     "resnet50": os.path.join(os.path.dirname(__file__), "..", "common", "ResNet50_Finetuned_best.pth"),
     "mobilenet_v3_large": os.path.join(os.path.dirname(__file__), "..", "common", "MobileNetV3-Large_best.pth"),
     "efficientnet_b0": os.path.join(os.path.dirname(__file__), "..", "common", "EfficientNet-B0_best.pth"),
-    "densenet121": os.path.join(os.path.dirname(__file__), "..", "common", "SkinDiseaseModel_best.pth"),
+    "densenet121": os.path.join(os.path.dirname(__file__), "..", "common", "final_skin_disease_model.pth"),
 }
 
 # Friendly display names for the frontend
